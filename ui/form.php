@@ -1,6 +1,6 @@
 <?php
 $d = __DIR__;
-$k =["en.txt","es.txt","hi.txt","id.txt","jp.txt","pt.txt","ru.txt","tr.txt","vi.txt","zh.txt"];
+$k =["en.txt","es.txt","hi.txt","id.txt","ja.txt","pt.txt","ru.txt","tr.txt","vi.txt","zh.txt"];
 $b = "en.txt";
 $g = file("$d/$b");
 foreach($k as $a){
