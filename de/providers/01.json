@@ -1,0 +1,44 @@
+{
+    "contents": [
+        {
+            "id": 47,
+            "name": "Pythagoras",
+            "label": "Griechischer Philosoph",
+            "image": "Pythagoras.webp",
+            "url": "https://de.wikipedia.org/wiki/Pythagoras",
+            "body": "Pythagoras von Samos (griechisch Πυθαγόρας Pythagóras; * um 570 v. Chr. auf Samos; † nach 510 v. Chr. in Metapont in der Basilicata) war ein antiker griechischer Philosoph (Vorsokratiker), Mathematiker und Gründer einer einflussreichen religiös-philosophischen Bewegung. Als Vierzigjähriger verließ er seine griechische Heimat und wanderte nach Süditalien aus. Dort gründete er eine Schule und betätigte sich auch politisch. Trotz intensiver Bemühungen der Forschung gehört er noch heute zu den rätselhaftesten Persönlichkeiten der Antike. Manche Historiker zählen ihn zu den Pionieren der beginnenden griechischen Philosophie, Mathematik und Naturwissenschaft, andere meinen, er sei vorwiegend oder ausschließlich ein Verkünder religiöser Lehren gewesen. Möglicherweise konnte er diese Bereiche verbinden. Die nach ihm benannten Pythagoreer blieben auch nach seinem Tod kulturgeschichtlich bedeutsam."
+        },
+        {
+            "id": 7,
+            "name": "Plato",
+            "label": "Antiker griechischer Philosoph",
+            "image": "Plato.webp",
+            "url": "https://de.wikipedia.org/wiki/Platon",
+            "body": "Im literarischen Dialog, der den Verlauf einer gemeinsamen Untersuchung nachvollziehen lässt, sah er die allein angemessene Form der schriftlichen Darbietung philosophischen Bemühens um Wahrheit. Aus dieser Überzeugung verhalf er der noch jungen Literaturgattung des Dialogs zum Durchbruch und schuf damit eine Alternative zur Lehrschrift und zur Rhetorik als bekannten Darstellungs- und Überzeugungsmitteln. Dabei bezog er dichterische und mythische Motive sowie handwerkliche Zusammenhänge ein, um seine Gedankengänge auf spielerische, anschauliche Weise zu vermitteln. Zugleich wich er mit dieser Art der Darbietung seiner Auffassungen dogmatischen Festlegungen aus und ließ viele Fragen, die sich daraus ergaben, offen bzw. überließ deren Klärung den Lesern, die er zu eigenen Anstrengungen anregen wollte."
+        },
+        {
+            "id": 14,
+            "name": "Konfuzius",
+            "label": "Chinesischer Philosoph",
+            "image": "Confucius.webp",
+            "url": "https://de.wikipedia.org/wiki/Konfuzius",
+            "body": "Das zentrale Thema seiner Lehren war die menschliche Ordnung, die seiner Meinung nach durch Achtung vor anderen Menschen und Ahnenverehrung erreichbar sei. Als Ideal galt Konfuzius der „Edle“ (jūnzĭ, 君子), ein moralisch guter Mensch. Edel kann der Mensch dann sein, wenn er sich in Harmonie mit dem Weltganzen befindet: „Den Angelpunkt zu finden, der unser sittliches Wesen mit der allumfassenden Ordnung, der zentralen Harmonie vereint“, sah Konfuzius als das höchste menschliche Ziel an. „Harmonie und Mitte, Gleichmut und Gleichgewicht“ galten ihm als erstrebenswert. Den Weg hierzu sah Konfuzius vor allem in der Bildung."
+        },
+        {
+            "id": 47,
+            "name": "Seneca der Jüngere",
+            "label": "Römischer Philosoph",
+            "image": "Seneca.webp",
+            "url": "https://de.wikipedia.org/wiki/Seneca",
+            "body": "Wenngleich er in seinen philosophischen Schriften Verzicht und Zurückhaltung empfahl, gehörte Seneca zu den reichsten und mächtigsten Männern seiner Zeit. Vom Jahr 49 an war er der maßgebliche Erzieher bzw. Berater des späteren Kaisers Nero. Wohl um diesen auf seine künftigen Aufgaben vorzubereiten, verfasste er eine Denkschrift darüber, warum es weise sei, als Herrscher Milde walten zu lassen (De clementia). Im Jahre 55 bekleidete Seneca ein Suffektkonsulat. Sein Agieren als Politiker stand teils im Widerspruch zu den von ihm in seinen philosophischen Schriften vertretenen ethischen Grundsätzen, was ihm bereits bei Zeitgenossen Kritik eintrug."
+        },
+        {
+            "id": 48,
+            "name": "Cicero",
+            "label": "Römischer Politiker",
+            "image": "Cicero.webp",
+            "url": "https://de.wikipedia.org/wiki/Marcus_Tullius_Cicero",
+            "body": "Cicero war einer der vielseitigsten Köpfe der römischen Antike. Als Schriftsteller war er schon für die Antike stilistisches Vorbild, seine Werke wurden als Muster einer vollendeten, „goldenen“ Latinität nachgeahmt (Ciceronianismus). Seine Bedeutung auf philosophischem Gebiet liegt in erster Linie nicht in seinen eigenständigen Erkenntnissen, sondern in der Vermittlung griechischen philosophischen Gedankenguts an die lateinischsprachige Welt; oft sind seine griechischen Quellen nur in seiner Bearbeitung greifbar, da sie sonst nirgends überliefert sind. Für die Niederschlagung der Verschwörung des Catilina und die daraus resultierende vorläufige Rettung der Republik ehrte ihn der Senat mit dem Titel pater patriae (Vater des Vaterlandes)."
+        }
+    ]
+}

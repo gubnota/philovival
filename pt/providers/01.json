@@ -1,0 +1,44 @@
+{
+    "contents": [
+        {
+            "id": 2951,
+            "name": "Pitágoras",
+            "label": "um matemático e filósofo grego",
+            "image": "Pythagoras.webp",
+            "url": "https://www.ebiografia.com/pitagoras/",
+            "body": "Pitágoras (582 - 497 a. C.) foi um matemático e filósofo grego. Adulto, em busca de novos conhecimentos, Pitágoras começou a somar, além dos números, ideias sobre ciência e religião de outros povos. Foi para a Síria, Arábia, Caldeia, Pérsia, Índia e Egito, onde se fixou e passou mais de 20 anos. Quando Cambises conquistou o Egito, Pitágoras foi obrigado a seguir para a Babilônia, onde passou a estudar e descobrir como se desenvolviam as ciências naquela região. Sob o aspecto religioso, Pitágoras e seus adeptos acreditavam na imortalidade da alma, cuja purificação ocorria através de sucessivas reencarnações em corpos vivos, e só pela vida “pura” a alma poderia libertar-se do corpo e viver no céu. Para Pitágoras a música era o melhor meio de purificar a alma. Os termos criados por ele são usados até hoje, como \"média harmônica\" e \"progressão harmônica\". Como astrônomo, seu principal mérito foi conceber o universo em movimento. Pitágoras faleceu em Lucânia, Itália, provavelmente em 497 a. C."
+        },
+        {
+            "id": 2953,
+            "name": "Platão",
+            "label": "Filósofo grego da antiguidade",
+            "image": "Plato.webp",
+            "url": "https://www.ebiografia.com/platao/",
+            "body": "Ancient (427-347 a.C.) foi um filósofo grego da antiguidade, considerado um dos principais pensadores da história da filosofia. Era discípulo do filósofo Sócrates. Sua filosofia é baseada na teoria de que o mundo que percebemos com nossos sentidos é um mundo ilusório, confuso. O mundo espiritual é mais elevado, eterno, onde o que existe verdadeiramente são as ideias, que só a razão pode conhecer."
+        },
+        {
+            "id": 0,
+            "name": "Confúcio",
+            "label": "Filósofo chinês",
+            "image": "Confucius.webp",
+            "url": "https://www.ebiografia.com/confucio/",
+            "body": "(551- 479 a.C.) foi um filósofo chinês, cujas ideias serviram de norma de comportamento à sociedade chinesa durante mais de dois mil anos e exerceu grande influência sobre toda a cultura da Ásia Oriental. Confúcio pregava a existência de cinco virtudes:\n Jen – a humanidade, bondade, compreensão e o amor pelos outros,\n Yi – a justiça temperada pelo amor,\n Li – regras adequadas de conduta, de polidez e de cerimoniais,\n Chih – autoconsciência da vontade do céu, sabedoria,\n Ch’i – sinceridade desinteressada."
+        },
+        {
+            "id": 0,
+            "name": "Sêneca",
+            "label": "filósofo, escritor e político romano",
+            "image": "Seneca.webp",
+            "url": "https://www.ebiografia.com/seneca/",
+            "body": "Lucius Annaeus Sêneca (4 a. C. - 65) foi um filósofo, escritor e político romano. Mestre da retórica foi o principal representante do Estoicismo durante o Império Romano. Lucius Annaeus Sêneca, conhecido como Sêneca o Jovem, nasceu em Córdoba, Espanha, por volta do ano 04 a. C., durante o Império Romano. Em Roma, Sêneca recebeu ensinamentos de vários mestres que o iniciaram no Estoicismo. Mais tarde, passou uma temporada no Egito, para tratamento da saúde. Quando retornou a Roma, por volta de 31 da era cristã, Sêneca iniciou sua carreira de orador e advogado e logo foi nomeado questor e em seguida Senador. Em 41, com o assassinato de Calígula, sobe ao poder o imperador Cláudio. Nesse mesmo ano, Sêneca é acusado de adultério com a princesa Julia Livilla, sobrinha do imperador. É então exilado na ilha de Córsega, onde viveu oito anos. Em 62, Sêneca passa a se dedicar a escrever e defender sua filosofia. Entre seus últimos textos estão um trabalho científico intitulado “Problemas Naturais”, os tratados: “Sobre a Brevidade da Vida” e “Sobre o Ócio” e, sua obra mais profunda, as “Epistolai Morales ad Lucilium”, em que reúne conselhos estoicos e elementos epicuristas na pregação de uma fraternidade universal, mais tarde adotadas pela igreja cristã."
+        },
+        {
+            "id": 684,
+            "name": "Cícero",
+            "label": "Filósofo romano",
+            "image": "Cicero.webp",
+            "url": "https://www.ebiografia.com/marco_tulio_cicero/",
+            "body": "Marco Túlio Cícero (107 a.C. - 43 a.C.) foi um importante filósofo, escritor, advogado e político romano. Foi considerado um dos maiores oradores da Roma antiga. Nasceu em Arpino, Itália, no dia 3 de janeiro do ano 107 a.C. Filho de um rico equestre recebeu fina educação. No contexto de disputas internas e ameaças externas, quando Júlio César matou Pompeu, e se tornou senhor de Roma, Cícero, pronunciou um grande discurso em honra de César. Mais tarde, quando César foi assassinado, querendo agradar a todos, Cícero fez igualmente um grande discurso contra ele, o que enfureceu o amigo e partidário de César, Marco Antônio. Entre suas obras destacam-se: “Da República”, “Sobre as Leis”, “Sobre a Consolação”, “Sobre os Objetivos da Ética”, “Discussões em Túsculo”, “Sobre a Natureza dos Deuses”, “Catão o Velho ou Sobre a Velhice”, “Sobre a Adivinhação”, “Sobre a Amizade” e “Sobre os Deveres”."
+        }
+    ]
+}

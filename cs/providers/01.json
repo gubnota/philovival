@@ -1,0 +1,60 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Pythagoras",
+            "label": "Řecký filosof, matematik",
+            "image": "Pythagoras.webp",
+            "url": "https://cs.wikipedia.org/wiki/Pythagoras",
+            "body": "Pythagoras, přezdívaný otec čísel, se narodil na ostrově Samos, jeho otcem byl pravděpodobně kupec nebo rytec prstenů Mésarchos. Mezi jeho učiteli se uvádějí Ferekýdés ze Syru a Anaximandros. V mládí cestoval po Egyptě a Babylonii, kde se seznámil s východními náboženskými myšlenkami. Když se roku 538 př. n. l. zmocnil vlády na Samu tyran Polykratés, Pythagoras uprchl a kolem roku 530 př. n. l. založil v dnešním Crotone v Kalabrii filosofickou školu. Žil se svými žáky podle přísných pravidel v pevném společenství a získal si i značný veřejný vliv. Podle některých pramenů měl za ženu Theano a s ní také děti. Když ve sporu s městem Sybaris krotónští roku 510 př. n. l. zvítězili, došlo ve městě ke sporům kvůli dělení dobyté půdy a hněv se obrátil proti Pythagorovi. Ten odešel z města a usadil se asi 160 km severněji v Metapontu u Tarenta, kde žil až do smrti. Po jeho smrti prý občané zřídili v jeho domě chrám bohyně Déméter."
+        },
+        {
+            "id": 0,
+            "name": "Platón",
+            "label": "Řecký filosof",
+            "image": "Plato2.webp",
+            "url": "https://cs.wikipedia.org/wiki/Platón",
+            "body": "Platón se narodil roku 428 nebo 427 př. n. l. v jedné z předních athénských rodin. Jeho otec Aristón prý odvozoval svůj původ od athénského krále Kodra, matka Periktioné pocházela z rodu slavného básníka a zákonodárce Solóna a její bratři Charmidés a Kritiás se podíleli na vládě třiceti na konci peloponéské války. Platónovi bratři Adeimantos a Glaukón také vystupují v jeho dialozích a sestra Pótóné byla matka filosofa Speusippa, který po Platónově smrti vedl Akademii. Aristón patrně brzy zemřel a Periktioné si vzala svého strýce Pyrilampa, diplomata a přítele Perikleova. S ním měla syna Antifóna, který vystupuje v dialogu Parmenidés. Platón, který o sobě téměř nepíše, dává všem vystupovat v sókratovských dialozích. Podle Diogena Laertia dostal jméno Aristoklés po svém dědovi, přezdívku Platón (široký, mohutný) mu prý dal jeho zápasnický trenér; jiní ji odvozovali od jeho nezvykle širokého čela. V mládí dostal vynikající vzdělání v gramatice, hudbě a gymnastice a s filosofií jej seznámil Kratylos, žák Hérakleitův.\n\nPodle tradice se ve dvaceti letech setkal se Sókratem a osm let mu naslouchal jako jeho nejvěrnější žák. Platón sám to ovšem v dialozích nikde výslovně neříká a podle dialogu Faidón nebyl při Sókratově smrti, protože byl nemocen.[1] Poté, co byl jeho učitel roku 399 př. n. l. odsouzen a popraven, odešel snad Platón z Athén do Megary a cestoval do Itálie, na Sicílii, do Egypta a do Kyrény. O cestách na Sicílii a o svých zkušenostech s tamními vládci Diónem a Dionýsem píše v Sedmém listu, jediném zachovaném autobiografickém textu."
+        },
+        {
+            "id": 0,
+            "name": "Konfucius",
+            "label": "Čínský filozof",
+            "image": "Confucius.webp",
+            "url": "https://cs.wikipedia.org/wiki/Konfucius",
+            "body": "Konfucius (čínsky 孔夫子, pinyin Kǒng Fūzǐ, český přepis Kchung-fu-c') (551 př. n. l. v Čchü-fu v čínském království Lu, dnes na území provincie Šan-tung; zemřel 479 př. n. l. tamtéž) byl čínský filozof, sociální politik a státník. Jeho morální filozofie vycházela z úcty k tradici a harmonii a z pokory. V návaznosti na Konfuciovo učení se rozvíjí konfucianismus, který výrazně zasáhl do dějin náboženství východní Asie. Konfucius bývá považován za prvního čínského filozofa. Je to reformátorská postava, která spolu s dalším filozofem Lao-c' natrvalo poznamenala čínskou kulturu, politiku a náboženství. Konfucius nevytvořil žádný systém logiky či metafyziky. Jeho nauka je souborem zásad a principů lidského chování a žití. Neuznával dědičné nároky na šlechtické stavy, tvrdil, že prostřednictvím zdokonalování se člověk do tohoto stavu dostává sám.Již velmi dlouho se vede debata o tom, zda Konfucius založil náboženství, či sekulární myšlenkový systém. V Číně je za náboženství konfucianismus tradičně považován. Pojednává o prvcích posmrtného života a mluví o Nebi. Na druhou stranu je nápadné, že se oproti jiným spirituálním směrům nápadně málo stará o pojmy jako duše nebo nesmrtelnost. Člověk nemá být v Konfuciově představě ctnostným proto, aby měl dobrý vztah s bohem, ale aby fungovala společnost. Také zdůrazňoval, že rituály a instituce nebyly přikázány z Nebes, ale jsou výsledkem tradice. Konfucius však údajně věřil v astrologii a řekl: „Nebe sesílá své dobré nebo zlé symboly a mudrci podle toho jednají.“"
+        },
+        {
+            "id": 0,
+            "name": "Seneca",
+            "label": "Římský stoický filosof",
+            "image": "Seneca.webp",
+            "url": "https://cs.wikipedia.org/wiki/Seneca",
+            "body": "Narodil se v Hispánské Kordubě, kde jeho otec vyučoval řečnickému umění. V mládí přišel do Říma a za otcova dohledu získal rétorické a filosofické vzdělání. Stejně jako jeho bratři byl deklamátor (přednašeč, řečník) a propagátor deklamací, které postupně prostoupily celou římskou literaturou. Hlásal stoickou nauku, že nejvyšší dobro pro člověka, zdroj štěstí a blaženosti je ctnost, že člověk má odolávat vnějším okolnostem, které nemůže ovlivnit, a má žít v duševním klidu, z něhož pravého filosofa nemohou vyvést ani rány osudu. Po studiích v Římě pobýval určitý čas u své tety v Egyptě, aby si upevnil zdraví. Seneca se postupně začal vyhýbat všem úřadům a stáhl se do ústraní. V roce 65 byl obviněn z účasti na Pisonově spiknutí, ač jeho reálná účast v něm není pravděpodobná. Poté byl na Neronův příkaz donucen k sebevraždě, dne 12. dubna 65 si podřízl žíly. Senecova smrt bývá někdy mylně spojována s bojem za republiku atp., protože Seneca byl naopak zastáncem císařství."
+        },
+        {
+            "id": 0,
+            "name": "Cicero",
+            "label": "Republikánský politik a filozof",
+            "image": "Cicero.webp",
+            "url": "https://cs.wikipedia.org/wiki/Marcus_Tullius_Cicero",
+            "body": "Marcus Tullius Cicero (3. ledna 106 př. n. l. Arpinum – 7. prosince 43 př. n. l. Řím) byl římský řečník, republikánský politik, filosof a spisovatel. Před občanskou válkou se přiklonil na stranu Pompeiovu, po jeho porážce odmítl vedení republikánského loďstva a raději odprosil Caesara, se kterým se vrátil do Říma jako přítel. Od roku 47 př. n. l. nevykonával žádnou veřejnou funkci a věnoval se pouze filosofii. Na veřejnosti vystupoval pouze v případech, kdy některý z jeho přátel potřeboval pomoc. Řada jeho spisů je psána formou dialogu, podle příkladu Platónových dialogů. Ciceronova latina i sloh se – počínaje Quintilianem – pokládaly za vzor latinské prózy a jako takové se všude ve školách četly, proto se jich také hodně zachovalo."
+        },
+        {
+            "id": 3574,
+            "name": "Buddha",
+            "label": "Indický filozof",
+            "image": "Buddha.webp",
+            "url": "https://cs.wikipedia.org/wiki/Gautama_Buddha",
+            "body": "Buddhistické hnutí má svého historického zakladatele v Gautamovi Siddhárthovi, který se nazýval Buddha, „Probuzený“. Na Západě se ovšem nestal známý pod svým vlastním jménem Siddhártha nebo příjmením Gautama, nýbrž právě pod titulem Buddha. Nelze jednoznačně určit, kdy se Gautama narodil. Podle klasických biografií je sice možné chronologicky seřadit důležité události jeho života, ale prameny nedovolují přesné datování. Buddhistická tradice a výzkum kolísají ve svých předpokladech mezi 6. stoletím př. n. l. až polovinou 4. století př. n. l. V literatuře se běžně zasazuje Gautamův život přibližně do let 560–480 př. n. l., novější úvahy ale hovoří o pozdější době, totiž o 4. století př. n. l. Na severu Indie stály v té době proti sobě dva politické systémy: starší forma oligarchické republiky ve státech jako Liččhaví, Šákja a Malla byla konfrontována s královskými říšemi jako Magadha, Kóšala, Vatsa a Avanti s novou dědičnou monarchií. V těchto republikách byl horní vrstvou kasty válečníků volen regent, který se musel řídit rozhodnutími poradního shromáždění a podléhal jeho kontrole, kdežto v monarchii platila vůle panovníka. Zatímco ještě v předhůří Himálaje přetrvávaly republiky, v úrodných pánvích řek Gangy a Jamuny dominovaly monarchie. Vývoj ke koncentraci moci na jednu osobu odrážel hospodářský převrat: jestliže společnost chovatelů dobytka, kteří poháněli svá stáda přes volné pastviny, nepotřebovala silnou centrální moc, podporovalo naopak zemědělství postavení panovníka, který střežil hranice polí. V Gautamově době byly poslední republiky ještě omezeně autonomní. Stály pod hegemonií monarchií, kterým navíc postoupily právo na suverenitu."
+        },
+        {
+            "id": 3574,
+            "name": "William Shakespeare",
+            "label": "Anglický dramatik",
+            "image": "William_Shakespeare.webp",
+            "url": "https://cs.wikipedia.org/wiki/William_Shakespeare",
+            "body": "William Shakespeare (pokřtěn 26. dubna 1564 – zemřel 3. května 1616 podle gregoriánského kalendáře) byl anglický básník, dramatik a herec, který bývá považován za největšího anglicky píšícího spisovatele a celosvětově nejvýznamnějšího dramatika. Připisuje se mu přibližně 38 dochovaných her (včetně těch, na kterých asi s někým spolupracoval), 154 sonetů, dvě dlouhé epické básně a několik dalších básní, z nichž některé jsou nejistého autorství. Jeho hry byly přeloženy do všech hlavních živých jazyků a jsou uváděny častěji než hry jakéhokoli jiného dramatika. Některé jeho rané hry byly komedie. V dalším období vytvořil Shakespeare mnoho her na historické náměty hlavně z anglických dějin, ale také např. velké drama Julius Caesar. Později, asi do roku 1608, pak psal své slavné tragédie, jako jsou Hamlet, Othello, Král Lear a Macbeth, které jsou považovány za vrcholná díla anglické literatury. V poslední tvůrčí fázi vytvářel tragikomedie, známé též jako romance, pravděpodobně ve spolupráci s jinými autory."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "contents": [
+        {
+            "id": 754,
+            "name": "Pythagore",
+            "label": "Réformateur religieux",
+            "image": "Pythagoras.webp",
+            "url": "https://fr.wikipedia.org/wiki/Pythagore",
+            "body": "La vie énigmatique de Pythagore permet difficilement d'éclaircir l'histoire de ce réformateur religieux, mathématicien, philosophe et thaumaturge. Il n’a jamais rien écrit, et les soixante et onze lignes des Vers d’Or qu'on lui attribue sont apocryphes et sont le signe de l'immense développement de la légende formée autour de son nom.\nLe néopythagorisme est néanmoins empreint d'une mystique des nombresn, déjà présente dans la pensée de Pythagore. Hérodote le mentionne comme « l'un des plus grands esprits de la Grèce, le sage Pythagore ». Il conserve un grand prestige ; Hegel disait qu'il était « le premier maître universel »."
+        },
+        {
+            "id": 749,
+            "name": "Platon",
+            "label": "Philosophe antique",
+            "image": "Plato2.webp",
+            "url": "https://fr.wikipedia.org/wiki/Platon",
+            "body": "Platon né en 428 / 427 av. J.-C. et mort en 348 / 347 av. J.-C. à Athènes, est un philosophe antique de la Grèce classique, contemporain de la démocratie athénienne et des sophistes qu'il critiqua vigoureusement. Il reprit le travail philosophique de certains de ses prédécesseurs, notamment Socrate dont il fut l'élève, ainsi que Parménide, Héraclite et Pythagore, afin d'élaborer sa propre pensée. Celle-ci explore la plupart des champs importants, c'est-à-dire la métaphysique et l'éthique, l'esthétique et la politique.\n\nSon œuvre, composée presque exclusivement de dialogues, produit les premières formulations classiques des problèmes majeurs de l'histoire de la philosophie occidentale2. Chaque dialogue de Platon est l'occasion d'interroger un sujet donné, par exemple le beau ou le courage. Il y développe une méthode qu'il appelle dialectique ou maïeutique."
+        },
+        {
+            "id": 179,
+            "name": "Confucius",
+            "label": "Philosophe chinois",
+            "image": "Confucius.webp",
+            "url": "https://fr.wikipedia.org/wiki/Confucius",
+            "body": "Confucius, né le 28 septembre 551 av. J.-C. à Zou et mort le 11 avril 479 av. J.-C. à Qufu dans l’actuelle province du Shandong, est un philosophe chinois. Son patronyme est Kong, son prénom Qiu, et son prénom social Zhongni. Il est le personnage historique qui a le plus marqué la civilisation chinoise, et est considéré comme le premier « éducateur » de la Chine.\nSon enseignement a donné naissance au confucianisme, doctrine politique et sociale érigée en religion d'État dès la dynastie Han et qui ne fut officiellement bannie qu'au début du xxe siècle, avec une résurgence en 1973 (voir Critique de Lin Piao et de Confucius). Ses principaux disciples sont nommés les Douze Philosophes et honorés dans les temples confucéens."
+        },
+        {
+            "id": 809,
+            "name": "Sénèque",
+            "label": "Sénateur romain",
+            "image": "Seneca.webp",
+            "url": "https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que",
+            "body": "Conseiller à la cour impériale sous Caligula, exilé à l'avènement de Claude puis rappelé comme précepteur de Néron, Sénèque joue un rôle important de conseiller auprès de ce dernier avant d'être discrédité et acculé au suicide. Ses traités philosophiques comme De la colère, De la vie heureuse ou De la brièveté de la vie, et surtout ses Lettres à Lucilius exposent ses conceptions philosophiques stoïciennes. Né à Cordoue, dans le sud de l'Espagne, entre l'an 4 av. J.-C. et l'an 1 apr. J.-C., mort le 12 avril 65 apr. J.-C., est un philosophe de l'école stoïcienne, un dramaturge et un homme d'État romain du premier siècle."
+        },
+        {
+            "id": 168,
+            "name": "Cicéron",
+            "label": "Écrivain latin et avocat",
+            "image": "Cicero.webp",
+            "url": "https://fr.wikipedia.org/wiki/Cic%C3%A9ron",
+            "body": "Cicéron né le 3 janvier 106 av. J.-C. à Arpinum en Italie et assassiné le 7 décembre 43 av. J.-C. (calendrier julien) à Formies, est un homme d'État romain, un avocat et un écrivain latin."
+        },
+        {
+            "id": 814,
+            "name": "Bouddha",
+            "label": "Chef spirituel",
+            "image": "Buddha.webp",
+            "url": "https://fr.wikipedia.org/wiki/Siddhartha_Gautama",
+            "body": "Il naît à Lumbinî situé dans l'actuel Népal, sur la route de Kapilavastu, la capitale du clan familial, dans l’actuel Teraï népalais, de Māyādevī et Śuddhodana, souverain des Śākyas appartenant à la caste des kṣatriyas guerriers et administrateurs, et fut actif dans les États de Kosala et Magadha au nord-est de l’Inde actuelle."
+        },
+        {
+            "id": 922,
+            "name": "William Shakespeare",
+            "label": "Dramaturge anglais",
+            "image": "William_Shakespeare.webp",
+            "url": "https://fr.wikipedia.org/wiki/William_Shakespeare",
+            "body": "William Shakespeare est un dramaturge, poète et acteur anglais baptisé le 26 avril 1564 à Stratford-upon-Avon et mort le 23 avril 1616 dans la même ville. Il est considéré comme l'un des plus grands poètes et dramaturges de langue anglaise. Son œuvre, traduite dans de nombreuses langues, se compose de 39 pièces, 154 sonnets et quelques poèmes supplémentaires, dont certains ne lui sont pas attribués de manière certaine."
+        }
+    ]
+}

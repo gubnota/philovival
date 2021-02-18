@@ -1,0 +1,356 @@
+{
+    "contents": [
+        {
+            "id": 1,
+            "name": "Abdul Kalam"
+        },
+        {
+            "id": 2,
+            "name": "Abraham Lincoln"
+        },
+        {
+            "id": 3,
+            "name": "Albert Einstein"
+        },
+        {
+            "id": 4,
+            "name": "Anna Hazare"
+        },
+        {
+            "id": 5,
+            "name": "Aristotle"
+        },
+        {
+            "id": 6,
+            "name": "Arvind Kejriwal"
+        },
+        {
+            "id": 7,
+            "name": "Ashoka"
+        },
+        {
+            "id": 8,
+            "name": "Atal Bihari Vajpayee"
+        },
+        {
+            "id": 9,
+            "name": "BKS Iyengar"
+        },
+        {
+            "id": 10,
+            "name": "Bal Gangadhar Tilak"
+        },
+        {
+            "id": 11,
+            "name": "Benjamin Franklin"
+        },
+        {
+            "id": 12,
+            "name": "Bhagat Singh"
+        },
+        {
+            "id": 13,
+            "name": "Brahmakumari Shivani"
+        },
+        {
+            "id": 14,
+            "name": "Brian Tracy"
+        },
+        {
+            "id": 15,
+            "name": "Bruce Lee"
+        },
+        {
+            "id": 16,
+            "name": "Chanakya"
+        },
+        {
+            "id": 17,
+            "name": "Confucius"
+        },
+        {
+            "id": 18,
+            "name": "Dale Carnegie"
+        },
+        {
+            "id": 19,
+            "name": "Deepak Chopra"
+        },
+        {
+            "id": 20,
+            "name": "B. R. Ambedkar B. R. Ambedkar".
+        },
+        {
+            "id": 21,
+            "name": "Sarvepalli Radhakrishnan"
+        },
+        {
+            "id": 22,
+            "name": "Dr. Seuss Dr. Seuss"
+        },
+        {
+            "id": 23,
+            "name": "Guru Gobind Singh"
+        },
+        {
+            "id": 24,
+            "name": "Hippocrates"
+        },
+        {
+            "id": 25,
+            "name": "J.K. Rowling J.K. Rolling"
+        },
+        {
+            "id": 26,
+            "name": "Jack Ma"
+        },
+        {
+            "id": 27,
+            "name": "Jack Welch"
+        },
+        {
+            "id": 28,
+            "name": "Jawaharlal Nehru"
+        },
+        {
+            "id": 29,
+            "name": "Jayalalitha"
+        },
+        {
+            "id": 30,
+            "name": "Karl Marx"
+        },
+        {
+            "id": 31,
+            "name": "Khalil Gibran"
+        },
+        {
+            "id": 32,
+            "name": "Kiran Bedi"
+        },
+        {
+            "id": 33,
+            "name": "Lal Bahadur Shastri"
+        },
+        {
+            "id": 34,
+            "name": "Leonardo da Vinci"
+        },
+        {
+            "id": 35,
+            "name": "Lord Buddha"
+        },
+        {
+            "id": 36,
+            "name": "Srimad Bhagavadgita"
+        },
+        {
+            "id": 37,
+            "name": "Lord Mahavir"
+        },
+        {
+            "id": 38,
+            "name": "Mahatma Gandhi"
+        },
+        {
+            "id": 39,
+            "name": "Mahatriya Ra"
+        },
+        {
+            "id": 40,
+            "name": "Malala Yusufzai"
+        },
+        {
+            "id": 41,
+            "name": "Mark Twain"
+        },
+        {
+            "id": 42,
+            "name": "Mark Zuckerberg"
+        },
+        {
+            "id": 43,
+            "name": "Mary Kom"
+        },
+        {
+            "id": 44,
+            "name": "Maya Angelou"
+        },
+        {
+            "id": 45,
+            "name": "Michael Phelps"
+        },
+        {
+            "id": 46,
+            "name": "Mother Teresa"
+        },
+        {
+            "id": 47,
+            "name": "Muhammad Ali"
+        },
+        {
+            "id": 48,
+            "name": "Mohammad Yunus"
+        },
+        {
+            "id": 49,
+            "name": "NR Narayana Murthy"
+        },
+        {
+            "id": 50,
+            "name": "Napoleon Bonaparte"
+        },
+        {
+            "id": 51,
+            "name": "Napoleon Hill"
+        },
+        {
+            "id": 52,
+            "name": "Navjot Singh Sidhu"
+        },
+        {
+            "id": 53,
+            "name": "Nelson Mandela"
+        },
+        {
+            "id": 54,
+            "name": "Nick Vujesic"
+        },
+        {
+            "id": 55,
+            "name": "Friedrich Nietzsche"
+        },
+        {
+            "id": 56,
+            "name": "Oprah Winfrey"
+        },
+        {
+            "id": 57,
+            "name": "Oscar Wilde"
+        },
+        {
+            "id": 58,
+            "name": "Osho"
+        },
+        {
+            "id": 59,
+            "name": "Paramahamsa Yogananda"
+        },
+        {
+            "id": 60,
+            "name": "Paolo Coello"
+        },
+        {
+            "id": 61,
+            "name": "Pale"
+        },
+        {
+            "id": 62,
+            "name": "Peter Drucker"
+        },
+        {
+            "id": 63,
+            "name": "RK Laxman"
+        },
+        {
+            "id": 64,
+            "name": "Rabindranath Tagore"
+        },
+        {
+            "id": 65,
+            "name": "Ralph Waldo Emerson"
+        },
+        {
+            "id": 66,
+            "name": "Dr. Ram Manohar Lohia"
+        },
+        {
+            "id": 67,
+            "name": "Ratan Tata"
+        },
+        {
+            "id": 68,
+            "name": "Richard Branson"
+        },
+        {
+            "id": 69,
+            "name": "Robert Kiyosaki"
+        },
+        {
+            "id": 70,
+            "name": "Robin Sharma"
+        },
+        {
+            "id": 71,
+            "name": "Sadhguru Jaggi Vasudev"
+        },
+        {
+            "id": 72,
+            "name": "Sandeep Maheshwari"
+        },
+        {
+            "id": 73,
+            "name": "Vallabhbhai Patel"
+        },
+        {
+            "id": 74,
+            "name": "Shahrukh Khan"
+        },
+        {
+            "id": 75,
+            "name": "Shiv Kheda"
+        },
+        {
+            "id": 76,
+            "name": "Chhatrapati Shivaji Maharaj"
+        },
+        {
+            "id": 77,
+            "name": "Sigmund Freud"
+        },
+        {
+            "id": 78,
+            "name": "Socrates"
+        },
+        {
+            "id": 79,
+            "name": "Sri Sri Ravi Shankar"
+        },
+        {
+            "id": 80,
+            "name": "Stephen Hawking"
+        },
+        {
+            "id": 81,
+            "name": "Subhash Chandra Bose"
+        },
+        {
+            "id": 82,
+            "name": "Lalu Prasad Yadav"
+        },
+        {
+            "id": 83,
+            "name": "Dayanand Saraswati"
+        },
+        {
+            "id": 84,
+            "name": "Swami Vivekananda"
+        },
+        {
+            "id": 85,
+            "name": "Thomas A. Edison"
+        },
+        {
+            "id": 86,
+            "name": "Tony Robbins"
+        },
+        {
+            "id": 87,
+            "name": "William Shakespeare"
+        },
+        {
+            "id": 88,
+            "name": "Winston Churchill"
+        }
+    ]
+}
