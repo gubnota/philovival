@@ -1,0 +1,20 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Pitagora",
+            "label": "filosofo greco antico",
+            "image": "Pythagoras.webp",
+            "url": "https://it.wikipedia.org/wiki/Pitagora",
+            "body": "Pitagora (Samo, tra il 580 a.C. e il 570 a.C. – Metaponto, 495 a.C. circa) è stato un filosofo greco. Fu matematico, taumaturgo, astronomo, scienziato, politico e fondatore a Crotone di una delle più importanti scuole di pensiero dell'umanità, che prese da lui stesso il nome: la Scuola pitagorica.\n\nIl suo pensiero ha avuto enorme importanza per lo sviluppo della scienza occidentale, perché ha intuito per primo l'efficacia della matematica per descrivere il mondo. Le sue dottrine segnerebbero la nascita di una riflessione improntata all'amore per la conoscenza. La scuola a lui intitolata fu il crogiolo nel cui ambito si svilupparono molte conoscenze, in particolare quelle matematiche e le sue applicazioni come il noto teorema di Pitagora."
+        },
+        {
+            "id": 0,
+            "name": "Platone",
+            "label": "filosofo greco antico",
+            "image": "Plato.webp",
+            "url": "https://it.wikipedia.org/wiki/Platone",
+            "body": "Platone, figlio di Aristone del demo di Collito e di Perictione (Atene, 428/427 a.C. – Atene, 348/347 a.C.), è stato un filosofo e scrittore greco antico. Assieme al suo maestro Socrate e al suo allievo Aristotele ha posto le basi del pensiero filosofico occidentale."
+        }
+    ]
+}

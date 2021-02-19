@@ -1,0 +1,60 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Pythagoras",
+            "label": "Triết gia cổ đại",
+            "image": "Pythagoras.webp",
+            "url": "https://vi.wikipedia.org/wiki/Pythagoras",
+            "body": "Pythagoras (tiếng Hy Lạp: Πυθαγόρας; sinh khoảng năm 580 đến 572 TCN - mất khoảng năm 500 đến 490 TCN) là một nhà triết học người Hy Lạp và là người sáng lập ra phong trào tín ngưỡng có tên học thuyết Pythagoras. Ông thường được biết đến như một nhà khoa học và toán học vĩ đại. Trong tiếng Việt, tên của ông thường được phiên âm từ tiếng Pháp (Pythagore) thành Pi-ta-go."
+        },
+        {
+            "id": 0,
+            "name": "Plato",
+            "label": "Triết gia cổ đại",
+            "image": "Plato.webp",
+            "url": "https://vi.wikipedia.org/wiki/Plato",
+            "body": "Platon (\"Vai Rộng\"), hay còn được Anh hóa là Plato, 428/427 hay 424/423 - 348/347 TCN) là nhà triết học người Athen trong thời kỳ Cổ điển ở Hy Lạp cổ đại, người sáng lập trường phái tư tưởng Platon, và Học viện, cơ sở giáo dục đại học đầu tiên ở thế giới phương Tây."
+        },
+        {
+            "id": 0,
+            "name": "Kong Hu Cu",
+            "label": "Chính khách công cộng",
+            "image": "Confucius.webp",
+            "url": "https://vi.wikipedia.org/wiki/Kh%E1%BB%95ng_T%E1%BB%AD",
+            "body": "Khổng Phu Tử (tiếng Trung: 孔夫子; hoặc Khổng Tử (tiếng Trung: 孔子) là danh hiệu tôn kính của hậu thế cho Khổng Khâu (chữ Hán: 孔丘; 28 tháng 9, 551 TCN - 11 tháng 4, 479 TCN) tự Trọng Ni (chữ Hán: 仲尼)) là nhà khai sáng Nho giáo, đồng thời là giảng sư và triết gia lỗi lạc bậc nhất cõi Á Đông. Khổng Tử cùng với Đức Phật Thích Ca Mâu Ni (563 - 483 TCN) và Lão Tử được coi là 3 nhà tư tưởng có ảnh hưởng lớn nhất tới Văn hóa Á Đông, và có một sự trùng hợp là cả 3 người đã sống trong cùng một thời kỳ lịch sử."
+        },
+        {
+            "id": 0,
+            "name": "Seneca",
+            "label": "Nhà triết học khắc kỷ",
+            "image": "Seneca.webp",
+            "url": "https://vi.wikipedia.org/wiki/Seneca",
+            "body": "Lucius Annaeus Seneca (thường được gọi đơn giản là Seneca hay Seneca Trẻ (4 TCN-65) là một triết gia người La Mã thuộc trường phái triết học khắc kỷ và là chính khách, nhà biên kịch, nghệ sĩ hài đương thời, ông là một tên tuổi lớn của văn học La Mã. Ông từng là thầy giáo và cố vấn cho hoàng đế Nero Bạo chúa. Ông sau đó đã bị ép buộc phải tự tử vì bị cho là đồng lõa trong âm mưu ám sát hoàng đế Julio-Claudian, tuy nhiên, ông có thể đã được tuyên vô tội. Cha của ông là Seneca Già và anh trai là Gallio."
+        },
+        {
+            "id": 0,
+            "name": "Cicero",
+            "label": "Bênh vực và hùng biện",
+            "image": "Cicero.webp",
+            "url": "https://vi.wikipedia.org/wiki/Cicero",
+            "body": "Marcus Tullius Cicero (3 tháng 1, 106 TCN – 7 tháng 12, 43 TCN) là một triết gia và nhà hùng biện, chính khách, nhà lý luận chính trị La Mã. Với thành tựu của mình, ông được xem là một trong những nhà hùng biện vĩ đại nhất La Mã, sở hữu nhiều kĩ xảo đa dạng và khả năng làm chủ ngôn ngữ Latinh đến độ phi thường. Chính ông đã giới thiệu đến người La Mã các trường phái chính của triết học Hy Lạp và tạo ra một số từ vựng triết học Latinh (như Humanitas, qualitas, quantitas, và essentia). Ông đã công bố những bài diễn văn của mình theo thông lệ chung thời ấy đồng thời viết nhiều tác phẩm về lý thuyết và thực hành hùng biện, về tôn giáo cũng như triết học đạo đức chính trị. Ông được coi là một trong những triết gia tiêu biểu của trường phái triết học Khắc Kỷ."
+        },
+        {
+            "id": 0,
+            "name": "Buddha",
+            "label": "lãnh đạo tinh thần",
+            "image": "Buddha.webp",
+            "url": "https://vi.wikipedia.org/wiki/T%E1%BA%A5t-%C4%91%E1%BA%A1t-%C4%91a_C%E1%BB%93-%C4%91%C3%A0m",
+            "body": "Theo các bộ kinh Phật giáo truyền lại và sử liệu, ông là một vương tử hoàng tộc Gautama (Cồ-Đàm) của tiểu quốc Shakya (Sắc-ca) ở Kapilavastu (Ca-tỳ-la-vệ), đã từ bỏ đời sống phú quý để tìm đạo. Sau sáu năm cầu đạo, ông đạt được giác ngộ tâm linh và dành 45 năm cuối của cuộc đời mình cho việc truyền dạy giáo lý ở phía đông tiểu lục địa Ấn Độ. Siddhārtha đã đề xướng con đường Trung đạo (Majihimāpaṭipadā), vừa từ bỏ đời sống xa hoa và cũng vừa từ bỏ lối tu ép xác khổ hạnh thịnh hành trong các học thuyết tôn giáo Ấn Độ thời đó[6]. Những lời giáo pháp trong thời gian ông đi truyền bá đã đặt nền tảng cho sự hình thành của Phật giáo.\nSiddhārtha Gautama được các Phật tử coi là một bậc đạo sư đã giác ngộ viên mãn và tự giải thoát hoàn toàn khỏi quy luật sinh tử luân hồi, hiểu rõ được sự vận hành của thế giới xung quanh, đồng thời truyền bá kinh nghiệm giác ngộ của mình cho người khác để họ có thể tự chấm dứt khổ đau bản thân, có được hạnh phúc tối thượng. Chi tiết về cuộc đời, những lời dạy và các giới luật của ông được những học trò ghi nhớ và tổng hợp lại sau khi Siddhārtha Gautama qua đời. Hàng loạt những bản kinh ghi lại lời dạy của ông được lưu giữ qua truyền miệng và được viết thành sách 200 năm sau."
+        },
+        {
+            "id": 0,
+            "name": "William Shakespeare",
+            "label": "nhà viết kịch Anh",
+            "image": "William_Shakespeare.webp",
+            "url": "https://vi.wikipedia.org/wiki/William_Shakespeare",
+            "body": "William Shakespeare (không rõ ngày sinh của ông, nhưng theo truyền thống được ghi nhận là vào ngày 23 tháng 4 năm 1564, ngày thánh George; mất ngày 23 tháng 4 năm 1616 theo lịch Julian hoặc ngày 3 tháng 5 năm 1616 theo lịch Gregorius) là một nhà văn và nhà viết kịch Anh, được coi là nhà văn vĩ đại nhất của Anh và là nhà viết kịch đi trước thời đại. Ông cũng được vinh danh là nhà thơ tiêu biểu của nước Anh và là \"Thi sĩ của dòng sông Avon\" (Avon là dòng sông nơi sinh của Shakespeare, Stratford-upon-Avon). Những tác phẩm của ông, bao gồm cả những tác phẩm hợp tác, bao gồm 38 vở kịch, 154 bản sonnet, hai bản thơ tường thuật dài, và 104 bài thơ ngắn. Những vở kịch của ông đã được dịch ra thành rất nhiều ngôn ngữ lớn và được trình diễn nhiều hơn bất kì nhà viết kịch nào."
+        }
+    ]
+}

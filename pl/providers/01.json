@@ -1,0 +1,20 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Pytagoras",
+            "label": "filozof grecki",
+            "image": "Pythagoras.webp",
+            "url": "https://pl.wikipedia.org/wiki/Pitagoras",
+            "body": "Pitagoras (ur. ok. 572 p.n.e. na Samos lub w Sydonie, zm. ok. 497 p.n.e. w Metaponcie) – grecki matematyk, filozof, mistyk kojarzony ze słynnym twierdzeniem matematycznym nazwanym jego imieniem. Według większości opisów Pitagoras żył około 80 lat, chociaż relacja anonimowego autora twierdzi, iż żył on aż 104 lata. Według jednej z wersji zmarł w Metaponcie w domu zapaśnika Milona, ocalony z pogromu Krotony, zaś innej – rewolty tej nie przeżył. Według wielu źródeł jego żoną była Teano, z którą miał dwóch synów: Telangesa i Menezarcha i dwie córki: Damo i Myie."
+        },
+        {
+            "id": 0,
+            "name": "Platon",
+            "label": "filozof grecki",
+            "image": "Plato.webp",
+            "url": "https://pl.wikipedia.org/wiki/Platon",
+            "body": "Platon (ur. 424/423 p.n.e., zm. 348/347 p.n.e.) – filozof grecki, Ateńczyk, twórca tradycji intelektualnej znanej jako platonizm. Sformułował podstawy idealizmu i racjonalizmu, a poprzez swą działalność literacką i pedagogiczną wprowadził takie zagadnienia jak teoria dobra, metoda dialektyczna, teoria idei, teoria sprawiedliwości czy matematyczna teoria atomów. Twórca metafory jaskini, opisującej relację pozorów (dziedziny cieni) do prawdy (dziedziny słońca), którą można odkryć dopiero po dokonaniu odwrócenia od cieni i wyjściu z jaskini. Platon założył w Atenach Akademię, która bywa uważana za pierwszą szkołę filozoficzną w historii Zachodu. On sam jest uznawany za fundatora zachodniej myśli politycznej, za jedną z najważniejszych postaci w historii filozofii, nauki i duchowości, a także za jednego z najważniejszych myślicieli w całej zachodniej tradycji intelektualnej. O skali wpływu Platona świadczy powiedzenie Whiteheada, wedle którego „najbezpieczniejszym ogólnym określeniem europejskiej tradycji filozoficznej jest to, że stanowi ona szereg przypisów do Platona”. „Platon jest fundatorem zachodniej tradycji filozoficznej w dwojakim sensie instytucjonalnym. Po pierwsze jest rektorem pierwszego uniwersytetu, a zatem inicjatorem filozofii jako działalności akademickiej. Po drugie kodyfikuje czyn, za sprawą którego, jak ujął to Cyceron, Sokrates ściągnął filozofię z nieba na ziemię, aby móc chodzić ulicami ludzkich miast”."
+        }
+    ]
+}

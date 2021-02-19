@@ -1,0 +1,20 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Pytagoras",
+            "label": "starogrécky filozof",
+            "image": "Pythagoras.webp",
+            "url": "https://sk.wikipedia.org/wiki/Pytagoras_zo_Samosu",
+            "body": "Pytagoras sa narodil okolo roku 570 pred Kr. na ostrove Samos v rodine obchodníka. Ako malý chlapec často sprevádzal svojho otca na cestách za obchodom, prevažne do Itálie. Už v mladom veku vynikal prirodzeným darom reči a charizmou, ktorou si získaval sympatie svojho okolia a tak poľahky dokázal spraviť dojem aj na starešinu – úplne prvých mudrcov, mysliteľov a filozofov v starovekom Grécku. Jedným z nich bol aj astronóm a matematik Thales, ktorý okamžite rozpoznal v mladom Pytagorovi talent a zobral si ho do učenia. Thales presvedčil Pytagora aby odišiel do Egypta."
+        },
+        {
+            "id": 0,
+            "name": "Platón",
+            "label": "starogrécky filozof",
+            "image": "Plato.webp",
+            "url": "https://sk.wikipedia.org/wiki/Platon",
+            "body": "Platón niekedy Platon (starogr. Πλάτων Platón – široký)(428 pred Kr./427 pred Kr. – † 347 pred Kr.) bol Sokratov žiak, spolu s Aristotelom najvýznamnejší grécky filozof. Najväčší vplyv mala jeho teória ideí a filozofia štátu. Platón založil 385/7 pred Kr. filozofickú školu zvanú Akadémia. Jeho spisy sú informačným zdrojom o legendárnej zaniknutej ostrovnej civilizácii Atlantída."
+        }
+    ]
+}

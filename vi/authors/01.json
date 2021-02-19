@@ -1,0 +1,44 @@
+{
+    "contents": [
+        {
+            "id": 1,
+            "name": "Aristotle"
+        },
+        {
+            "id": 2,
+            "name": "Cicero"
+        },
+        {
+            "id": 3,
+            "name": "Hồ Chí Minh"
+        },
+        {
+            "id": 4,
+            "name": "Khổng Tử"
+        },
+        {
+            "id": 5,
+            "name": "Lê Thẩm Dương"
+        },
+        {
+            "id": 6,
+            "name": "Lý Gia Thành"
+        },
+        {
+            "id": 7,
+            "name": "Mahatma Gandhi"
+        },
+        {
+            "id": 8,
+            "name": "Mẹ Teresa"
+        },
+        {
+            "id": 9,
+            "name": "Plato"
+        },
+        {
+            "id": 10,
+            "name": "Pythagoras"
+        }
+    ]
+}

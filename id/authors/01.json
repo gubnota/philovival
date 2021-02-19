@@ -1,0 +1,3412 @@
+{
+    "contents": [
+        {
+            "id": 1,
+            "name": "Kata-kata Bijak"
+        },
+        {
+            "id": 2,
+            "name": "A. A. Milne"
+        },
+        {
+            "id": 3,
+            "name": "A. A. Navis"
+        },
+        {
+            "id": 4,
+            "name": "A. Berthet"
+        },
+        {
+            "id": 5,
+            "name": "A. S. Laksana"
+        },
+        {
+            "id": 6,
+            "name": "A. Schopenhauer"
+        },
+        {
+            "id": 7,
+            "name": "A. Setiawan"
+        },
+        {
+            "id": 8,
+            "name": "A. Stevenson"
+        },
+        {
+            "id": 9,
+            "name": "A. Warits Rovi"
+        },
+        {
+            "id": 10,
+            "name": "A.J. Cronin"
+        },
+        {
+            "id": 11,
+            "name": "Aan Syafrani"
+        },
+        {
+            "id": 12,
+            "name": "Aan Wulandari"
+        },
+        {
+            "id": 13,
+            "name": "Aaron Allston"
+        },
+        {
+            "id": 14,
+            "name": "Aaron Levie"
+        },
+        {
+            "id": 15,
+            "name": "Aaron Sorkin"
+        },
+        {
+            "id": 16,
+            "name": "Abbas Aditya"
+        },
+        {
+            "id": 17,
+            "name": "Abdul Hadi W. M."
+        },
+        {
+            "id": 18,
+            "name": "Abdul Somad"
+        },
+        {
+            "id": 19,
+            "name": "Abdullah bin al-Mubarak"
+        },
+        {
+            "id": 20,
+            "name": "Abdullah Gymnastiar"
+        },
+        {
+            "id": 21,
+            "name": "Abdurahman Faiz"
+        },
+        {
+            "id": 22,
+            "name": "Abdurrahman Wahid"
+        },
+        {
+            "id": 23,
+            "name": "Abigail van Buren"
+        },
+        {
+            "id": 24,
+            "name": "Abraham H. Maslow"
+        },
+        {
+            "id": 25,
+            "name": "Abraham Lincoln"
+        },
+        {
+            "id": 26,
+            "name": "Abu Hamid Al Ghazali"
+        },
+        {
+            "id": 27,
+            "name": "Aburizal Bakrie"
+        },
+        {
+            "id": 28,
+            "name": "Acariba"
+        },
+        {
+            "id": 29,
+            "name": "Acep Zamzam Noor"
+        },
+        {
+            "id": 30,
+            "name": "Achi T.M"
+        },
+        {
+            "id": 31,
+            "name": "Achille Chavée"
+        },
+        {
+            "id": 32,
+            "name": "Achmad Mustafa Bisri"
+        },
+        {
+            "id": 33,
+            "name": "Achmad Zaky"
+        },
+        {
+            "id": 34,
+            "name": "Adam Aksara"
+        },
+        {
+            "id": 35,
+            "name": "Adam Grant"
+        },
+        {
+            "id": 36,
+            "name": "Adam McKay"
+        },
+        {
+            "id": 37,
+            "name": "Adam Sandler"
+        },
+        {
+            "id": 38,
+            "name": "Adam Smith"
+        },
+        {
+            "id": 39,
+            "name": "Adelbert von Chamisso"
+        },
+        {
+            "id": 40,
+            "name": "Adeliany Azfar"
+        },
+        {
+            "id": 41,
+            "name": "Adham T. Fusama"
+        },
+        {
+            "id": 42,
+            "name": "Adhitya Mulya"
+        },
+        {
+            "id": 43,
+            "name": "Adi Hidayat"
+        },
+        {
+            "id": 44,
+            "name": "Adi Zamzam"
+        },
+        {
+            "id": 45,
+            "name": "Aditia Yudis"
+        },
+        {
+            "id": 46,
+            "name": "Adityarakhman"
+        },
+        {
+            "id": 47,
+            "name": "Adlai E. Stevenson II"
+        },
+        {
+            "id": 48,
+            "name": "Adlai Stevenson II"
+        },
+        {
+            "id": 49,
+            "name": "Adlizscha"
+        },
+        {
+            "id": 50,
+            "name": "Adolf Hitler"
+        },
+        {
+            "id": 51,
+            "name": "Adolphe D'Houdetot"
+        },
+        {
+            "id": 52,
+            "name": "Adolphe Thiers"
+        },
+        {
+            "id": 53,
+            "name": "Adrie"
+        },
+        {
+            "id": 54,
+            "name": "Aeschylus"
+        },
+        {
+            "id": 55,
+            "name": "Aesna"
+        },
+        {
+            "id": 56,
+            "name": "Aesopus"
+        },
+        {
+            "id": 57,
+            "name": "Afsir M"
+        },
+        {
+            "id": 58,
+            "name": "Agatha Christie"
+        },
+        {
+            "id": 59,
+            "name": "Agnes Davonar"
+        },
+        {
+            "id": 60,
+            "name": "Agnes Jessica"
+        },
+        {
+            "id": 61,
+            "name": "Agnes Monica"
+        },
+        {
+            "id": 62,
+            "name": "Agus Faizal"
+        },
+        {
+            "id": 63,
+            "name": "Agus Noor"
+        },
+        {
+            "id": 64,
+            "name": "Agus Rois"
+        },
+        {
+            "id": 65,
+            "name": "Agustinus Wibowo"
+        },
+        {
+            "id": 66,
+            "name": "Ahmad Dahlan"
+        },
+        {
+            "id": 67,
+            "name": "Ahmad Fuadi"
+        },
+        {
+            "id": 68,
+            "name": "Ahmad Tohari"
+        },
+        {
+            "id": 69,
+            "name": "Ahmad Wahib"
+        },
+        {
+            "id": 70,
+            "name": "Ahmad Zaini"
+        },
+        {
+            "id": 71,
+            "name": "Ahnaf ibn Qais"
+        },
+        {
+            "id": 72,
+            "name": "Aida M.A"
+        },
+        {
+            "id": 73,
+            "name": "Aiman Bagea"
+        },
+        {
+            "id": 74,
+            "name": "Ainun Chomsum"
+        },
+        {
+            "id": 75,
+            "name": "Ainun Nufus"
+        },
+        {
+            "id": 76,
+            "name": "Aiu Ahra"
+        },
+        {
+            "id": 77,
+            "name": "Ajahn Chah"
+        },
+        {
+            "id": 78,
+            "name": "Ajenangelinaa"
+        },
+        {
+            "id": 79,
+            "name": "Ajip Rosidi"
+        },
+        {
+            "id": 80,
+            "name": "Akira Kurosawa"
+        },
+        {
+            "id": 81,
+            "name": "Akiyoshi Rikako"
+        },
+        {
+            "id": 82,
+            "name": "AL Dhimas"
+        },
+        {
+            "id": 83,
+            "name": "Al Gore"
+        },
+        {
+            "id": 84,
+            "name": "Al Pacino"
+        },
+        {
+            "id": 85,
+            "name": "Al Sharpton"
+        },
+        {
+            "id": 86,
+            "name": "Alain-Fournier"
+        },
+        {
+            "id": 87,
+            "name": "Alain"
+        },
+        {
+            "id": 88,
+            "name": "Alain de Botton"
+        },
+        {
+            "id": 89,
+            "name": "Alan Alda"
+        },
+        {
+            "id": 90,
+            "name": "Alan Bennett"
+        },
+        {
+            "id": 91,
+            "name": "Alan Cohen"
+        },
+        {
+            "id": 92,
+            "name": "Alan Dershowitz"
+        },
+        {
+            "id": 93,
+            "name": "Alan Greenspan"
+        },
+        {
+            "id": 94,
+            "name": "Alan Watts"
+        },
+        {
+            "id": 95,
+            "name": "Alana Izarra"
+        },
+        {
+            "id": 96,
+            "name": "Alanda Kariza"
+        },
+        {
+            "id": 97,
+            "name": "Albert Camus"
+        },
+        {
+            "id": 98,
+            "name": "Albert Einstein"
+        },
+        {
+            "id": 99,
+            "name": "Albert Ellis"
+        },
+        {
+            "id": 100,
+            "name": "Albert Guinon"
+        },
+        {
+            "id": 101,
+            "name": "Albert Schweitzer"
+        },
+        {
+            "id": 102,
+            "name": "Alberthiene Endah"
+        },
+        {
+            "id": 103,
+            "name": "Aldous Huxley"
+        },
+        {
+            "id": 104,
+            "name": "Alec Waugh"
+        },
+        {
+            "id": 105,
+            "name": "Alessandro Morandotti"
+        },
+        {
+            "id": 106,
+            "name": "Alex Haley"
+        },
+        {
+            "id": 107,
+            "name": "Alexander Chalmers"
+        },
+        {
+            "id": 108,
+            "name": "Alexander Dumas the Younger"
+        },
+        {
+            "id": 109,
+            "name": "Alexander Graham Bell"
+        },
+        {
+            "id": 110,
+            "name": "Alexander Hamilton"
+        },
+        {
+            "id": 111,
+            "name": "Alexander Pope"
+        },
+        {
+            "id": 112,
+            "name": "Alexander Smith"
+        },
+        {
+            "id": 113,
+            "name": "Alexandre Dumas fils"
+        },
+        {
+            "id": 114,
+            "name": "Alexandre Dumas père"
+        },
+        {
+            "id": 115,
+            "name": "Alexandre Vinet"
+        },
+        {
+            "id": 116,
+            "name": "Alexia Chen"
+        },
+        {
+            "id": 117,
+            "name": "Alexis Carrel"
+        },
+        {
+            "id": 118,
+            "name": "Alexis de Tocqueville"
+        },
+        {
+            "id": 119,
+            "name": "Alfian Daniear"
+        },
+        {
+            "id": 120,
+            "name": "Alfian Danier"
+        },
+        {
+            "id": 121,
+            "name": "Alfian Dippahatang"
+        },
+        {
+            "id": 122,
+            "name": "Alfred Adler"
+        },
+        {
+            "id": 123,
+            "name": "Alfred Bougeart"
+        },
+        {
+            "id": 124,
+            "name": "Alfred de Musset"
+        },
+        {
+            "id": 125,
+            "name": "Alfred de Vigny"
+        },
+        {
+            "id": 126,
+            "name": "Alfred Hitchcock"
+        },
+        {
+            "id": 127,
+            "name": "Alfred Lord Tennyson"
+        },
+        {
+            "id": 128,
+            "name": "Alfred N. Whitehead"
+        },
+        {
+            "id": 129,
+            "name": "Alfred Polgar"
+        },
+        {
+            "id": 130,
+            "name": "Ali bin Abi Thalib"
+        },
+        {
+            "id": 131,
+            "name": "Aliazalea"
+        },
+        {
+            "id": 132,
+            "name": "Alice Munro"
+        },
+        {
+            "id": 133,
+            "name": "Alissa Wahid"
+        },
+        {
+            "id": 134,
+            "name": "Alit Susanto"
+        },
+        {
+            "id": 135,
+            "name": "Alkadri"
+        },
+        {
+            "id": 136,
+            "name": "Allen Klein"
+        },
+        {
+            "id": 137,
+            "name": "Alma Aridatha"
+        },
+        {
+            "id": 138,
+            "name": "Alonzo"
+        },
+        {
+            "id": 139,
+            "name": "Alphonse Daudet"
+        },
+        {
+            "id": 140,
+            "name": "Alphonse De Lamartine"
+        },
+        {
+            "id": 141,
+            "name": "Alphonse Karr"
+        },
+        {
+            "id": 142,
+            "name": "Altami N. D."
+        },
+        {
+            "id": 143,
+            "name": "Alvi Syahrin"
+        },
+        {
+            "id": 144,
+            "name": "Alvian AJ"
+        },
+        {
+            "id": 145,
+            "name": "Alvin Toffler"
+        },
+        {
+            "id": 146,
+            "name": "Amaliah Black"
+        },
+        {
+            "id": 147,
+            "name": "Amanda Inez"
+        },
+        {
+            "id": 148,
+            "name": "Ambrose Bierce"
+        },
+        {
+            "id": 149,
+            "name": "Amelia"
+        },
+        {
+            "id": 150,
+            "name": "Amelia Barr"
+        },
+        {
+            "id": 151,
+            "name": "Amelia Earhart"
+        },
+        {
+            "id": 152,
+            "name": "Amien Rais"
+        },
+        {
+            "id": 153,
+            "name": "Amir Hamzah"
+        },
+        {
+            "id": 154,
+            "name": "Amira Budi Mutiara"
+        },
+        {
+            "id": 155,
+            "name": "Amish"
+        },
+        {
+            "id": 156,
+            "name": "Amos Bronson Alcott"
+        },
+        {
+            "id": 157,
+            "name": "Amy Winehouse"
+        },
+        {
+            "id": 158,
+            "name": "Anais Nin"
+        },
+        {
+            "id": 159,
+            "name": "Anastasia Aemilia"
+        },
+        {
+            "id": 160,
+            "name": "Anatole France"
+        },
+        {
+            "id": 161,
+            "name": "Andari Andriani"
+        },
+        {
+            "id": 162,
+            "name": "Andi Eriawan"
+        },
+        {
+            "id": 163,
+            "name": "Andina Dwifatma"
+        },
+        {
+            "id": 164,
+            "name": "Andori Andriani"
+        },
+        {
+            "id": 165,
+            "name": "Andra Fembrianto"
+        },
+        {
+            "id": 166,
+            "name": "Andrea Dworkin"
+        },
+        {
+            "id": 167,
+            "name": "Andrea Hirata"
+        },
+        {
+            "id": 168,
+            "name": "Andreas Harefa"
+        },
+        {
+            "id": 169,
+            "name": "Andres Iniesta"
+        },
+        {
+            "id": 170,
+            "name": "Andrew Carnegie"
+        },
+        {
+            "id": 171,
+            "name": "Andrew Jackson"
+        },
+        {
+            "id": 172,
+            "name": "Andrew Lloyd Webber"
+        },
+        {
+            "id": 173,
+            "name": "Andrew Wood"
+        },
+        {
+            "id": 174,
+            "name": "Andrew Young"
+        },
+        {
+            "id": 175,
+            "name": "Andrie Wongso"
+        },
+        {
+            "id": 176,
+            "name": "Andriyana"
+        },
+        {
+            "id": 177,
+            "name": "Andros Luvena"
+        },
+        {
+            "id": 178,
+            "name": "Andry Setiawan"
+        },
+        {
+            "id": 179,
+            "name": "André Breton"
+        },
+        {
+            "id": 180,
+            "name": "André Gide"
+        },
+        {
+            "id": 181,
+            "name": "André Malraux"
+        },
+        {
+            "id": 182,
+            "name": "André Maurois"
+        },
+        {
+            "id": 183,
+            "name": "Andy F. Noya"
+        },
+        {
+            "id": 184,
+            "name": "Andy Rooney"
+        },
+        {
+            "id": 185,
+            "name": "Andy Warhol"
+        },
+        {
+            "id": 186,
+            "name": "Aneurin Bevan"
+        },
+        {
+            "id": 187,
+            "name": "Angela Davis"
+        },
+        {
+            "id": 188,
+            "name": "Angela Thirkell"
+        },
+        {
+            "id": 189,
+            "name": "Angelia Caroline"
+        },
+        {
+            "id": 190,
+            "name": "Angelina Jolie"
+        },
+        {
+            "id": 191,
+            "name": "Angelique Puspadewi"
+        },
+        {
+            "id": 192,
+            "name": "Anggun Prameswari"
+        },
+        {
+            "id": 193,
+            "name": "Anies Baswedan"
+        },
+        {
+            "id": 194,
+            "name": "Anis Hidayah"
+        },
+        {
+            "id": 195,
+            "name": "Anisa Maryanti"
+        },
+        {
+            "id": 196,
+            "name": "Anish Kapoor"
+        },
+        {
+            "id": 197,
+            "name": "Anita Brookner"
+        },
+        {
+            "id": 198,
+            "name": "Anita Krizzan"
+        },
+        {
+            "id": 199,
+            "name": "Anittaqwa Elamien"
+        },
+        {
+            "id": 200,
+            "name": "Anjar Anastasia"
+        },
+        {
+            "id": 201,
+            "name": "Ann Veneman"
+        },
+        {
+            "id": 202,
+            "name": "Anna Farida"
+        },
+        {
+            "id": 203,
+            "name": "Anna Quindlen"
+        },
+        {
+            "id": 204,
+            "name": "Anna Triana"
+        },
+        {
+            "id": 205,
+            "name": "Anne Avantie"
+        },
+        {
+            "id": 206,
+            "name": "Anne Brontë"
+        },
+        {
+            "id": 207,
+            "name": "Anne Frank"
+        },
+        {
+            "id": 208,
+            "name": "Anne Tyler"
+        },
+        {
+            "id": 209,
+            "name": "Anne Wilson Schaef"
+        },
+        {
+            "id": 210,
+            "name": "Annisa Andrie"
+        },
+        {
+            "id": 211,
+            "name": "Annisa Ihsani"
+        },
+        {
+            "id": 212,
+            "name": "Annisa Nadzirani Thaib"
+        },
+        {
+            "id": 213,
+            "name": "Ansel Adams"
+        },
+        {
+            "id": 214,
+            "name": "Anthony de Mello"
+        },
+        {
+            "id": 215,
+            "name": "Anthony J. D'Angelo"
+        },
+        {
+            "id": 216,
+            "name": "Anthony Robbins"
+        },
+        {
+            "id": 217,
+            "name": "Anthony Weiner"
+        },
+        {
+            "id": 218,
+            "name": "Antoine Albalat"
+        },
+        {
+            "id": 219,
+            "name": "Antoine de Rivarol"
+        },
+        {
+            "id": 220,
+            "name": "Antoine de Saint-Exupéry"
+        },
+        {
+            "id": 221,
+            "name": "Antoine François Prévost"
+        },
+        {
+            "id": 222,
+            "name": "Antoine Rivarol"
+        },
+        {
+            "id": 223,
+            "name": "Antoinette Deshoulières"
+        },
+        {
+            "id": 224,
+            "name": "Anton Chekhov"
+        },
+        {
+            "id": 225,
+            "name": "Antonio Tabucchi"
+        },
+        {
+            "id": 226,
+            "name": "Anugrah Rawiyah Salma"
+        },
+        {
+            "id": 227,
+            "name": "Anugrah Roby Syahputra"
+        },
+        {
+            "id": 228,
+            "name": "Anwar Sadat"
+        },
+        {
+            "id": 229,
+            "name": "Aphra Behn"
+        },
+        {
+            "id": 230,
+            "name": "Aprinus Salam"
+        },
+        {
+            "id": 231,
+            "name": "Aqessa Aninda"
+        },
+        {
+            "id": 232,
+            "name": "Ardelia Karisa"
+        },
+        {
+            "id": 233,
+            "name": "Ari Irawan Nugroho"
+        },
+        {
+            "id": 234,
+            "name": "Ariestanabirah"
+        },
+        {
+            "id": 235,
+            "name": "Arif Rahman Lubis"
+        },
+        {
+            "id": 236,
+            "name": "Arini Putri"
+        },
+        {
+            "id": 237,
+            "name": "Aristoteles"
+        },
+        {
+            "id": 238,
+            "name": "Aristoteles Onassis"
+        },
+        {
+            "id": 239,
+            "name": "Aristotle"
+        },
+        {
+            "id": 240,
+            "name": "Arleen A."
+        },
+        {
+            "id": 241,
+            "name": "Arne Jacobsen"
+        },
+        {
+            "id": 242,
+            "name": "Arnold Gehlen"
+        },
+        {
+            "id": 243,
+            "name": "Arnold H. Glasgow"
+        },
+        {
+            "id": 244,
+            "name": "Arnold Schwarzenegger"
+        },
+        {
+            "id": 245,
+            "name": "Arswendo Atmowiloto"
+        },
+        {
+            "id": 246,
+            "name": "Arsène Houssaye"
+        },
+        {
+            "id": 247,
+            "name": "Arthur Adamov"
+        },
+        {
+            "id": 248,
+            "name": "Arthur Ashe"
+        },
+        {
+            "id": 249,
+            "name": "Arthur Brisbane"
+        },
+        {
+            "id": 250,
+            "name": "Arthur C. Clarke"
+        },
+        {
+            "id": 251,
+            "name": "Arthur Christopher Benson"
+        },
+        {
+            "id": 252,
+            "name": "Arthur Gingold"
+        },
+        {
+            "id": 253,
+            "name": "Arthur Gordon"
+        },
+        {
+            "id": 254,
+            "name": "Arthur Miller"
+        },
+        {
+            "id": 255,
+            "name": "Arthur Rubinstein"
+        },
+        {
+            "id": 256,
+            "name": "Arthur Schnitzler"
+        },
+        {
+            "id": 257,
+            "name": "Arthur Schopenhauer"
+        },
+        {
+            "id": 258,
+            "name": "Arumi E."
+        },
+        {
+            "id": 259,
+            "name": "Aruni Husna"
+        },
+        {
+            "id": 260,
+            "name": "Ary Amhir"
+        },
+        {
+            "id": 261,
+            "name": "Ary Yulistiana"
+        },
+        {
+            "id": 262,
+            "name": "Asa Mulchias"
+        },
+        {
+            "id": 263,
+            "name": "Asai Ryo"
+        },
+        {
+            "id": 264,
+            "name": "Ashleigh Brilliant"
+        },
+        {
+            "id": 265,
+            "name": "Asma Nadia"
+        },
+        {
+            "id": 266,
+            "name": "Asri Tahir"
+        },
+        {
+            "id": 267,
+            "name": "Assata Shakur"
+        },
+        {
+            "id": 268,
+            "name": "Asti Septiana"
+        },
+        {
+            "id": 269,
+            "name": "Athira Marsya Khairina"
+        },
+        {
+            "id": 270,
+            "name": "Atika Puspita"
+        },
+        {
+            "id": 271,
+            "name": "Audre Lorde"
+        },
+        {
+            "id": 272,
+            "name": "Audrey Hepburn"
+        },
+        {
+            "id": 273,
+            "name": "Auguste Rodin"
+        },
+        {
+            "id": 274,
+            "name": "Augustine Birrell"
+        },
+        {
+            "id": 275,
+            "name": "Augustinus"
+        },
+        {
+            "id": 276,
+            "name": "Aung San Suu Kyi"
+        },
+        {
+            "id": 277,
+            "name": "Austin Kleon"
+        },
+        {
+            "id": 278,
+            "name": "Austin O'Malley"
+        },
+        {
+            "id": 279,
+            "name": "Avril Lavigne"
+        },
+        {
+            "id": 280,
+            "name": "Awy A. Qolawun"
+        },
+        {
+            "id": 281,
+            "name": "Ayidah A. Shalal"
+        },
+        {
+            "id": 282,
+            "name": "Ayn Rand"
+        },
+        {
+            "id": 283,
+            "name": "Ayra"
+        },
+        {
+            "id": 284,
+            "name": "Ayu Gabriel"
+        },
+        {
+            "id": 285,
+            "name": "Ayu Utami"
+        },
+        {
+            "id": 286,
+            "name": "Ayudia Bing Slamet"
+        },
+        {
+            "id": 287,
+            "name": "Ayunda Nida Chaira"
+        },
+        {
+            "id": 288,
+            "name": "Ayunda Nurul Afifatur Rizqiyah"
+        },
+        {
+            "id": 289,
+            "name": "Ayuwidya"
+        },
+        {
+            "id": 290,
+            "name": "Bacharuddin Jusuf Habibie"
+        },
+        {
+            "id": 291,
+            "name": "Bambang Pamungkas"
+        },
+        {
+            "id": 292,
+            "name": "Bambang Widjojanto"
+        },
+        {
+            "id": 293,
+            "name": "Barack Obama"
+        },
+        {
+            "id": 294,
+            "name": "Basuki Tjahaja Purnama"
+        },
+        {
+            "id": 295,
+            "name": "Benedict Cumberbatch"
+        },
+        {
+            "id": 296,
+            "name": "Bernard Batubara"
+        },
+        {
+            "id": 297,
+            "name": "Bernie Sanders"
+        },
+        {
+            "id": 298,
+            "name": "Bertrand Russell"
+        },
+        {
+            "id": 299,
+            "name": "Bo Peabody"
+        },
+        {
+            "id": 300,
+            "name": "Bob Dylan"
+        },
+        {
+            "id": 301,
+            "name": "Bob Marley"
+        },
+        {
+            "id": 302,
+            "name": "Bob Sadino"
+        },
+        {
+            "id": 303,
+            "name": "Bong Chandra"
+        },
+        {
+            "id": 304,
+            "name": "Boy Candra"
+        },
+        {
+            "id": 305,
+            "name": "Brian Selznick"
+        },
+        {
+            "id": 306,
+            "name": "Bruce Lee"
+        },
+        {
+            "id": 307,
+            "name": "Buddha"
+        },
+        {
+            "id": 308,
+            "name": "Budhi Setyawan"
+        },
+        {
+            "id": 309,
+            "name": "Bunda Teresa"
+        },
+        {
+            "id": 310,
+            "name": "Busyro Muqoddas"
+        },
+        {
+            "id": 311,
+            "name": "Butet Manurung"
+        },
+        {
+            "id": 312,
+            "name": "Buya Hamka"
+        },
+        {
+            "id": 313,
+            "name": "C. S. Lewis"
+        },
+        {
+            "id": 314,
+            "name": "Cak Lontong (Lies Hartono)"
+        },
+        {
+            "id": 315,
+            "name": "Cale Yarborough"
+        },
+        {
+            "id": 316,
+            "name": "Carl Gustav Jung"
+        },
+        {
+            "id": 317,
+            "name": "Carl von Clausewitz"
+        },
+        {
+            "id": 318,
+            "name": "Cecil Myers"
+        },
+        {
+            "id": 319,
+            "name": "Cepi R. Dini"
+        },
+        {
+            "id": 320,
+            "name": "Chairil Anwar"
+        },
+        {
+            "id": 321,
+            "name": "Chairul Tanjung"
+        },
+        {
+            "id": 322,
+            "name": "Charles Baudelaire"
+        },
+        {
+            "id": 323,
+            "name": "Charles C. Noble"
+        },
+        {
+            "id": 324,
+            "name": "Charles Lindbergh"
+        },
+        {
+            "id": 325,
+            "name": "Charles Swindoll"
+        },
+        {
+            "id": 326,
+            "name": "Charlie Chaplin"
+        },
+        {
+            "id": 327,
+            "name": "Che Guevara"
+        },
+        {
+            "id": 328,
+            "name": "Ching Hai"
+        },
+        {
+            "id": 329,
+            "name": "Christian Andrianto"
+        },
+        {
+            "id": 330,
+            "name": "Christian Simamora"
+        },
+        {
+            "id": 331,
+            "name": "Christina Juzwar"
+        },
+        {
+            "id": 332,
+            "name": "Christopher Reeve"
+        },
+        {
+            "id": 333,
+            "name": "Cindy Pricilla"
+        },
+        {
+            "id": 334,
+            "name": "Clara Ng"
+        },
+        {
+            "id": 335,
+            "name": "Clio Freya"
+        },
+        {
+            "id": 336,
+            "name": "Colin Powell"
+        },
+        {
+            "id": 337,
+            "name": "Cordell Hull"
+        },
+        {
+            "id": 338,
+            "name": "Cornelia Funke"
+        },
+        {
+            "id": 339,
+            "name": "Cut Nyak Dhien"
+        },
+        {
+            "id": 340,
+            "name": "Cyril Connolly"
+        },
+        {
+            "id": 341,
+            "name": "D. H. Lawrence"
+        },
+        {
+            "id": 342,
+            "name": "Dahlan Iskan"
+        },
+        {
+            "id": 343,
+            "name": "Dahlian"
+        },
+        {
+            "id": 344,
+            "name": "Dalai Lama XIV"
+        },
+        {
+            "id": 345,
+            "name": "Dale Carnegie"
+        },
+        {
+            "id": 346,
+            "name": "Dan Sapar"
+        },
+        {
+            "id": 347,
+            "name": "Daniel Defoe"
+        },
+        {
+            "id": 348,
+            "name": "Dean Inge"
+        },
+        {
+            "id": 349,
+            "name": "Deassy M. Destiani"
+        },
+        {
+            "id": 350,
+            "name": "Deasylawati P."
+        },
+        {
+            "id": 351,
+            "name": "Dedy Dahlan"
+        },
+        {
+            "id": 352,
+            "name": "Democritus"
+        },
+        {
+            "id": 353,
+            "name": "Denny Indrayana"
+        },
+        {
+            "id": 354,
+            "name": "Denny Santoso"
+        },
+        {
+            "id": 355,
+            "name": "Desi Puspitasari"
+        },
+        {
+            "id": 356,
+            "name": "Desmond Tutu"
+        },
+        {
+            "id": 357,
+            "name": "Dewi Lestari"
+        },
+        {
+            "id": 358,
+            "name": "Dewi Rieka"
+        },
+        {
+            "id": 359,
+            "name": "Dhitapuspitan"
+        },
+        {
+            "id": 360,
+            "name": "Dian Sastrowardoyo"
+        },
+        {
+            "id": 361,
+            "name": "Dini Fitria"
+        },
+        {
+            "id": 362,
+            "name": "Dini Novita Sari"
+        },
+        {
+            "id": 363,
+            "name": "Diponegoro"
+        },
+        {
+            "id": 364,
+            "name": "Djenar Maesa Ayu"
+        },
+        {
+            "id": 365,
+            "name": "Donna Widjajanto"
+        },
+        {
+            "id": 366,
+            "name": "Douglas Engelbart"
+        },
+        {
+            "id": 367,
+            "name": "Dr. A. P. J. Abdul Kalam"
+        },
+        {
+            "id": 368,
+            "name": "dr. Meta Hanindita"
+        },
+        {
+            "id": 369,
+            "name": "Dr. Seuss"
+        },
+        {
+            "id": 370,
+            "name": "Duffy Daugherty"
+        },
+        {
+            "id": 371,
+            "name": "Dzikry el Han"
+        },
+        {
+            "id": 372,
+            "name": "E. E. Cummings"
+        },
+        {
+            "id": 373,
+            "name": "Edith Wharton"
+        },
+        {
+            "id": 374,
+            "name": "Edmund Burke"
+        },
+        {
+            "id": 375,
+            "name": "Edna O'Brien"
+        },
+        {
+            "id": 376,
+            "name": "Edotz Herjunot"
+        },
+        {
+            "id": 377,
+            "name": "Eduard Douwes Dekker"
+        },
+        {
+            "id": 378,
+            "name": "Edward Teller"
+        },
+        {
+            "id": 379,
+            "name": "Eka Dianta BR Perangin-Angin"
+        },
+        {
+            "id": 380,
+            "name": "Elbert Hubbard"
+        },
+        {
+            "id": 381,
+            "name": "Eleanor Roosevelt"
+        },
+        {
+            "id": 382,
+            "name": "Elektra Queen"
+        },
+        {
+            "id": 383,
+            "name": "Elizabeth Gilbert"
+        },
+        {
+            "id": 384,
+            "name": "Ella Wheeler Wilcox"
+        },
+        {
+            "id": 385,
+            "name": "Elvira Fidelia"
+        },
+        {
+            "id": 386,
+            "name": "Elvis Presley"
+        },
+        {
+            "id": 387,
+            "name": "Emha Ainun Nadjib"
+        },
+        {
+            "id": 388,
+            "name": "Emile Zola"
+        },
+        {
+            "id": 389,
+            "name": "Emily Dickinson"
+        },
+        {
+            "id": 390,
+            "name": "Eminem"
+        },
+        {
+            "id": 391,
+            "name": "Emma Grace"
+        },
+        {
+            "id": 392,
+            "name": "Eni Martini"
+        },
+        {
+            "id": 393,
+            "name": "Epictetus"
+        },
+        {
+            "id": 394,
+            "name": "Epicurus"
+        },
+        {
+            "id": 395,
+            "name": "Eric Weiner"
+        },
+        {
+            "id": 396,
+            "name": "Erich Fromm"
+        },
+        {
+            "id": 397,
+            "name": "Erich Watson"
+        },
+        {
+            "id": 398,
+            "name": "Erlita Pratiwi"
+        },
+        {
+            "id": 399,
+            "name": "Ernest Hemingway"
+        },
+        {
+            "id": 400,
+            "name": "Eross Chandra"
+        },
+        {
+            "id": 401,
+            "name": "Erskine Caldwell"
+        },
+        {
+            "id": 402,
+            "name": "Erwin Setia"
+        },
+        {
+            "id": 403,
+            "name": "Esti Kinasih"
+        },
+        {
+            "id": 404,
+            "name": "Etienne Lamy"
+        },
+        {
+            "id": 405,
+            "name": "Eugène Ionesco"
+        },
+        {
+            "id": 406,
+            "name": "Eva Sri Rahayu"
+        },
+        {
+            "id": 407,
+            "name": "Eve Shi"
+        },
+        {
+            "id": 408,
+            "name": "F. Scott Fitzgerald"
+        },
+        {
+            "id": 409,
+            "name": "Fadjroel Rachman"
+        },
+        {
+            "id": 410,
+            "name": "Fajar Nugros"
+        },
+        {
+            "id": 411,
+            "name": "Fakhrisina Amalia"
+        },
+        {
+            "id": 412,
+            "name": "Faye Wattleton"
+        },
+        {
+            "id": 413,
+            "name": "Feisal Abdul Rauf"
+        },
+        {
+            "id": 414,
+            "name": "Felice Cahyadi"
+        },
+        {
+            "id": 415,
+            "name": "Felix Siauw"
+        },
+        {
+            "id": 416,
+            "name": "Fiersa Besari"
+        },
+        {
+            "id": 417,
+            "name": "Firman Nofeki"
+        },
+        {
+            "id": 418,
+            "name": "Francis Bacon"
+        },
+        {
+            "id": 419,
+            "name": "Francois de la Rochefoucauld"
+        },
+        {
+            "id": 420,
+            "name": "Francois Lelord"
+        },
+        {
+            "id": 421,
+            "name": "Frank Tyger"
+        },
+        {
+            "id": 422,
+            "name": "Franklin P. Jones"
+        },
+        {
+            "id": 423,
+            "name": "Friedrich Engels"
+        },
+        {
+            "id": 424,
+            "name": "Friedrich Nietzsche"
+        },
+        {
+            "id": 425,
+            "name": "G. C. Lichtenberg"
+        },
+        {
+            "id": 426,
+            "name": "G.W.F. Hegel"
+        },
+        {
+            "id": 427,
+            "name": "Galeh Pramudianto"
+        },
+        {
+            "id": 428,
+            "name": "Galih Aditya"
+        },
+        {
+            "id": 429,
+            "name": "Galileo Galilei"
+        },
+        {
+            "id": 430,
+            "name": "Ganjar Pranowo"
+        },
+        {
+            "id": 431,
+            "name": "Garin Nugroho"
+        },
+        {
+            "id": 432,
+            "name": "Garina Adelia"
+        },
+        {
+            "id": 433,
+            "name": "Geoffrey Chaucer"
+        },
+        {
+            "id": 434,
+            "name": "George Bernard Shaw"
+        },
+        {
+            "id": 435,
+            "name": "George Burns"
+        },
+        {
+            "id": 436,
+            "name": "George Herbert"
+        },
+        {
+            "id": 437,
+            "name": "George Moore"
+        },
+        {
+            "id": 438,
+            "name": "George Orwell"
+        },
+        {
+            "id": 439,
+            "name": "George S. Patton"
+        },
+        {
+            "id": 440,
+            "name": "George Santayana"
+        },
+        {
+            "id": 441,
+            "name": "Georgette Heyer"
+        },
+        {
+            "id": 442,
+            "name": "Giacomo Casanova"
+        },
+        {
+            "id": 443,
+            "name": "Gloria Steinem"
+        },
+        {
+            "id": 444,
+            "name": "Goenawan Mohamad"
+        },
+        {
+            "id": 445,
+            "name": "Gol A Gong"
+        },
+        {
+            "id": 446,
+            "name": "Grant Fairley"
+        },
+        {
+            "id": 447,
+            "name": "Groucho Marx"
+        },
+        {
+            "id": 448,
+            "name": "Gu Man"
+        },
+        {
+            "id": 449,
+            "name": "Guillaume Apollinaire"
+        },
+        {
+            "id": 450,
+            "name": "Guillaume Musso"
+        },
+        {
+            "id": 451,
+            "name": "Guntur Alam"
+        },
+        {
+            "id": 452,
+            "name": "H. Jackson Brown Jr"
+        },
+        {
+            "id": 453,
+            "name": "Habiburrahman El Shirazy"
+        },
+        {
+            "id": 454,
+            "name": "Hadji Oemar Said Tjokroaminoto"
+        },
+        {
+            "id": 455,
+            "name": "Haim Ginott"
+        },
+        {
+            "id": 456,
+            "name": "Hanan Attaki"
+        },
+        {
+            "id": 457,
+            "name": "Hannah Arendt"
+        },
+        {
+            "id": 458,
+            "name": "Hannah More"
+        },
+        {
+            "id": 459,
+            "name": "Hanum Salsabiela Rais"
+        },
+        {
+            "id": 460,
+            "name": "Hartley Coleridge"
+        },
+        {
+            "id": 461,
+            "name": "Haruki Murakami"
+        },
+        {
+            "id": 462,
+            "name": "Harville Hendrix"
+        },
+        {
+            "id": 463,
+            "name": "Hasan Aspahani"
+        },
+        {
+            "id": 464,
+            "name": "Hector Berlioz"
+        },
+        {
+            "id": 465,
+            "name": "Hector Malot"
+        },
+        {
+            "id": 466,
+            "name": "Heinrich Heine"
+        },
+        {
+            "id": 467,
+            "name": "Heinz Hilpert"
+        },
+        {
+            "id": 468,
+            "name": "Heinz Sielmann"
+        },
+        {
+            "id": 469,
+            "name": "Helen Rowland"
+        },
+        {
+            "id": 470,
+            "name": "Helvy Tiana Rosa"
+        },
+        {
+            "id": 471,
+            "name": "Henry David Thoreau"
+        },
+        {
+            "id": 472,
+            "name": "Henry Ford"
+        },
+        {
+            "id": 473,
+            "name": "Henry Louis Mencken"
+        },
+        {
+            "id": 474,
+            "name": "Henry S. Haskins"
+        },
+        {
+            "id": 475,
+            "name": "Henry van Dyke"
+        },
+        {
+            "id": 476,
+            "name": "Henry Wadsworth Longfellow"
+        },
+        {
+            "id": 477,
+            "name": "Henry Ward Beecher"
+        },
+        {
+            "id": 478,
+            "name": "Heraclitus"
+        },
+        {
+            "id": 479,
+            "name": "Herbert Spencer"
+        },
+        {
+            "id": 480,
+            "name": "Hermawan Kartajaya"
+        },
+        {
+            "id": 481,
+            "name": "Homerus"
+        },
+        {
+            "id": 482,
+            "name": "Husain Sayidi"
+        },
+        {
+            "id": 483,
+            "name": "Hyung-kyung Kim"
+        },
+        {
+            "id": 484,
+            "name": "Icha Rahmanti"
+        },
+        {
+            "id": 485,
+            "name": "Idawati Zhang"
+        },
+        {
+            "id": 486,
+            "name": "Ilana Tan"
+        },
+        {
+            "id": 487,
+            "name": "Imam Budiman"
+        },
+        {
+            "id": 488,
+            "name": "Imam Syafi'i"
+        },
+        {
+            "id": 489,
+            "name": "Immanuel Kant"
+        },
+        {
+            "id": 490,
+            "name": "Indah Hanaco"
+        },
+        {
+            "id": 491,
+            "name": "Inggrid Sonya"
+        },
+        {
+            "id": 492,
+            "name": "Ippho Santosa"
+        },
+        {
+            "id": 493,
+            "name": "Irene Dyah"
+        },
+        {
+            "id": 494,
+            "name": "Iris Murdoch"
+        },
+        {
+            "id": 495,
+            "name": "Irwin Federman"
+        },
+        {
+            "id": 496,
+            "name": "Israel Zangwill"
+        },
+        {
+            "id": 497,
+            "name": "Iwan Fals"
+        },
+        {
+            "id": 498,
+            "name": "Iwan Setyawan"
+        },
+        {
+            "id": 499,
+            "name": "Iwok Abqary"
+        },
+        {
+            "id": 500,
+            "name": "Jack Canfield"
+        },
+        {
+            "id": 501,
+            "name": "Jack Ma"
+        },
+        {
+            "id": 502,
+            "name": "Jacques Normand"
+        },
+        {
+            "id": 503,
+            "name": "Jalaluddin Rumi"
+        },
+        {
+            "id": 504,
+            "name": "James Beattie"
+        },
+        {
+            "id": 505,
+            "name": "James Oppenheim"
+        },
+        {
+            "id": 506,
+            "name": "James Stephens"
+        },
+        {
+            "id": 507,
+            "name": "Jane Austen"
+        },
+        {
+            "id": 508,
+            "name": "Jane Howard"
+        },
+        {
+            "id": 509,
+            "name": "Janice Lane Palko"
+        },
+        {
+            "id": 510,
+            "name": "Jean-Jacques Rousseau"
+        },
+        {
+            "id": 511,
+            "name": "Jean-Paul Sartre"
+        },
+        {
+            "id": 512,
+            "name": "Jean de La Fontaine"
+        },
+        {
+            "id": 513,
+            "name": "Jean Giraudoux"
+        },
+        {
+            "id": 514,
+            "name": "Jean Paul"
+        },
+        {
+            "id": 515,
+            "name": "Jean Paul Getty"
+        },
+        {
+            "id": 516,
+            "name": "Jeff Bezos"
+        },
+        {
+            "id": 517,
+            "name": "Jefri Al Buchori"
+        },
+        {
+            "id": 518,
+            "name": "Jenderal Soedirman"
+        },
+        {
+            "id": 519,
+            "name": "Jenny Han"
+        },
+        {
+            "id": 520,
+            "name": "Jerinx"
+        },
+        {
+            "id": 521,
+            "name": "Jessica Huwae"
+        },
+        {
+            "id": 522,
+            "name": "Jim Collins"
+        },
+        {
+            "id": 523,
+            "name": "Jimi Hendrix"
+        },
+        {
+            "id": 524,
+            "name": "Johann Jakob Mohr"
+        },
+        {
+            "id": 525,
+            "name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "id": 526,
+            "name": "John C. Maxwell"
+        },
+        {
+            "id": 527,
+            "name": "John Connolly"
+        },
+        {
+            "id": 528,
+            "name": "John D. Rockefeller"
+        },
+        {
+            "id": 529,
+            "name": "John F. Kennedy"
+        },
+        {
+            "id": 530,
+            "name": "John Greenleaf Whittier"
+        },
+        {
+            "id": 531,
+            "name": "John Lennon"
+        },
+        {
+            "id": 532,
+            "name": "John Patrick"
+        },
+        {
+            "id": 533,
+            "name": "John W. Gardner"
+        },
+        {
+            "id": 534,
+            "name": "Johnny Depp"
+        },
+        {
+            "id": 535,
+            "name": "Jojo Moyes"
+        },
+        {
+            "id": 536,
+            "name": "Joko Pinurbo"
+        },
+        {
+            "id": 537,
+            "name": "Joko Widodo"
+        },
+        {
+            "id": 538,
+            "name": "Jonathan Saturo"
+        },
+        {
+            "id": 539,
+            "name": "Jorge Luis Borges"
+        },
+        {
+            "id": 540,
+            "name": "Joseph Addison"
+        },
+        {
+            "id": 541,
+            "name": "Joseph Campbell"
+        },
+        {
+            "id": 542,
+            "name": "Joseph L. Mankiewicz"
+        },
+        {
+            "id": 543,
+            "name": "Joseph Murphy"
+        },
+        {
+            "id": 544,
+            "name": "Josephine Winda"
+        },
+        {
+            "id": 545,
+            "name": "Jostein Gaarder"
+        },
+        {
+            "id": 546,
+            "name": "José Marti"
+        },
+        {
+            "id": 547,
+            "name": "Joyce Brothers"
+        },
+        {
+            "id": 548,
+            "name": "Julie Anne Peters"
+        },
+        {
+            "id": 549,
+            "name": "Kanato Puji"
+        },
+        {
+            "id": 550,
+            "name": "Kang Maman (Maman Suherman)"
+        },
+        {
+            "id": 551,
+            "name": "Karl Kraus"
+        },
+        {
+            "id": 552,
+            "name": "Karl Marx"
+        },
+        {
+            "id": 553,
+            "name": "Katharine Hepburn"
+        },
+        {
+            "id": 554,
+            "name": "Katherine Applegate"
+        },
+        {
+            "id": 555,
+            "name": "Kemal Palevi"
+        },
+        {
+            "id": 556,
+            "name": "Ken Hanggara"
+        },
+        {
+            "id": 557,
+            "name": "Ken Terate"
+        },
+        {
+            "id": 558,
+            "name": "Kevin Anggara"
+        },
+        {
+            "id": 559,
+            "name": "Khalil Gibran"
+        },
+        {
+            "id": 560,
+            "name": "Ki Hadjar Dewantara"
+        },
+        {
+            "id": 561,
+            "name": "Kinta"
+        },
+        {
+            "id": 562,
+            "name": "Kristi Jo"
+        },
+        {
+            "id": 563,
+            "name": "Kristin Fourina"
+        },
+        {
+            "id": 564,
+            "name": "Kuntowijoyo"
+        },
+        {
+            "id": 565,
+            "name": "Kurt Cobain"
+        },
+        {
+            "id": 566,
+            "name": "L. Adnan"
+        },
+        {
+            "id": 567,
+            "name": "Lala Purwono"
+        },
+        {
+            "id": 568,
+            "name": "Lana Savira KD"
+        },
+        {
+            "id": 569,
+            "name": "Lao-Zu"
+        },
+        {
+            "id": 570,
+            "name": "Lea Agustina Citra"
+        },
+        {
+            "id": 571,
+            "name": "Lee Kuan Yew"
+        },
+        {
+            "id": 572,
+            "name": "Lenang Manggala"
+        },
+        {
+            "id": 573,
+            "name": "Leo Tolstoy"
+        },
+        {
+            "id": 574,
+            "name": "Leonardo da Vinci"
+        },
+        {
+            "id": 575,
+            "name": "Linus Pauling"
+        },
+        {
+            "id": 576,
+            "name": "Lord Chesterfield"
+        },
+        {
+            "id": 577,
+            "name": "Lord George Byron"
+        },
+        {
+            "id": 578,
+            "name": "Lou Holtz"
+        },
+        {
+            "id": 579,
+            "name": "Louis Armstrong"
+        },
+        {
+            "id": 580,
+            "name": "Louis Pasteur"
+        },
+        {
+            "id": 581,
+            "name": "Louis van Gaal"
+        },
+        {
+            "id": 582,
+            "name": "Lucia Priandarini"
+        },
+        {
+            "id": 583,
+            "name": "Ludwig Börne"
+        },
+        {
+            "id": 584,
+            "name": "Ludwig Van Beethoven"
+        },
+        {
+            "id": 585,
+            "name": "Lukman Setiawan"
+        },
+        {
+            "id": 586,
+            "name": "Mae West"
+        },
+        {
+            "id": 587,
+            "name": "Maggie Tiojakin"
+        },
+        {
+            "id": 588,
+            "name": "Mahatma Gandhi"
+        },
+        {
+            "id": 589,
+            "name": "Mahir Pradana"
+        },
+        {
+            "id": 590,
+            "name": "Mahmoud Ahmadinejad"
+        },
+        {
+            "id": 591,
+            "name": "Makna Sinatria"
+        },
+        {
+            "id": 592,
+            "name": "Marchella FP"
+        },
+        {
+            "id": 593,
+            "name": "Marcus Aurelius"
+        },
+        {
+            "id": 594,
+            "name": "Marcus Tullius Cicero"
+        },
+        {
+            "id": 595,
+            "name": "Mariah Carey"
+        },
+        {
+            "id": 596,
+            "name": "Mario Puzo"
+        },
+        {
+            "id": 597,
+            "name": "Mario Teguh"
+        },
+        {
+            "id": 598,
+            "name": "Mark Twain"
+        },
+        {
+            "id": 599,
+            "name": "Marnie Reed Crowell"
+        },
+        {
+            "id": 600,
+            "name": "Marsha Norman"
+        },
+        {
+            "id": 601,
+            "name": "Martin Luther King"
+        },
+        {
+            "id": 602,
+            "name": "Max Planck"
+        },
+        {
+            "id": 603,
+            "name": "Mayya Adnan"
+        },
+        {
+            "id": 604,
+            "name": "Megan Tresidder"
+        },
+        {
+            "id": 605,
+            "name": "Megawati Soekarnoputri"
+        },
+        {
+            "id": 606,
+            "name": "Meiza Maulida"
+        },
+        {
+            "id": 607,
+            "name": "Meladee McCarty"
+        },
+        {
+            "id": 608,
+            "name": "Mell Shaliha"
+        },
+        {
+            "id": 609,
+            "name": "Meredith Hodges"
+        },
+        {
+            "id": 610,
+            "name": "Merry Riana"
+        },
+        {
+            "id": 611,
+            "name": "Michael Jackson"
+        },
+        {
+            "id": 612,
+            "name": "Michael Jordan"
+        },
+        {
+            "id": 613,
+            "name": "Michel Eyquem de Montaigne"
+        },
+        {
+            "id": 614,
+            "name": "Milan Kundera"
+        },
+        {
+            "id": 615,
+            "name": "Mira W."
+        },
+        {
+            "id": 616,
+            "name": "Moammar Emka"
+        },
+        {
+            "id": 617,
+            "name": "Mochtar Lubis"
+        },
+        {
+            "id": 618,
+            "name": "Moemoe Rizal"
+        },
+        {
+            "id": 619,
+            "name": "Mohammad Hatta"
+        },
+        {
+            "id": 620,
+            "name": "Molière"
+        },
+        {
+            "id": 621,
+            "name": "Montesquieu"
+        },
+        {
+            "id": 622,
+            "name": "Morihei Ueshiba"
+        },
+        {
+            "id": 623,
+            "name": "Muhammad Ali"
+        },
+        {
+            "id": 624,
+            "name": "Multatuli"
+        },
+        {
+            "id": 625,
+            "name": "Muna Masyari"
+        },
+        {
+            "id": 626,
+            "name": "Munir"
+        },
+        {
+            "id": 627,
+            "name": "Naguib Mahfouz"
+        },
+        {
+            "id": 628,
+            "name": "Najwa Shihab"
+        },
+        {
+            "id": 629,
+            "name": "Napoleon Hill"
+        },
+        {
+            "id": 630,
+            "name": "Nay Sharaya"
+        },
+        {
+            "id": 631,
+            "name": "Nazril Irham"
+        },
+        {
+            "id": 632,
+            "name": "Neil Armstrong"
+        },
+        {
+            "id": 633,
+            "name": "Nelson Mandela"
+        },
+        {
+            "id": 634,
+            "name": "Netty Virgianti"
+        },
+        {
+            "id": 635,
+            "name": "Netty Virgiantini"
+        },
+        {
+            "id": 636,
+            "name": "Nia Sutardi"
+        },
+        {
+            "id": 637,
+            "name": "Nicola Tesla"
+        },
+        {
+            "id": 638,
+            "name": "Nicolas Boileau"
+        },
+        {
+            "id": 639,
+            "name": "Nikma T. S"
+        },
+        {
+            "id": 640,
+            "name": "Nima Mumtaz"
+        },
+        {
+            "id": 641,
+            "name": "Nina Addison"
+        },
+        {
+            "id": 642,
+            "name": "Ninna Rosmina"
+        },
+        {
+            "id": 643,
+            "name": "Nirwan Dewanto"
+        },
+        {
+            "id": 644,
+            "name": "Nita Trismaya"
+        },
+        {
+            "id": 645,
+            "name": "Noam Chomsky"
+        },
+        {
+            "id": 646,
+            "name": "Norman Edwin"
+        },
+        {
+            "id": 647,
+            "name": "Norman Vincent Peale"
+        },
+        {
+            "id": 648,
+            "name": "Nurilla Iryani"
+        },
+        {
+            "id": 649,
+            "name": "Ogden Nash"
+        },
+        {
+            "id": 650,
+            "name": "Okke"
+        },
+        {
+            "id": 651,
+            "name": "Oliver Wendell Holmes"
+        },
+        {
+            "id": 652,
+            "name": "Oprah Winfrey"
+        },
+        {
+            "id": 653,
+            "name": "Orina Fazrina"
+        },
+        {
+            "id": 654,
+            "name": "Orinthia Lee"
+        },
+        {
+            "id": 655,
+            "name": "Orizuka"
+        },
+        {
+            "id": 656,
+            "name": "Oscar Wilde"
+        },
+        {
+            "id": 657,
+            "name": "Otto Cornelis Kaligis"
+        },
+        {
+            "id": 658,
+            "name": "P. Swantoro"
+        },
+        {
+            "id": 659,
+            "name": "Pablo Picasso"
+        },
+        {
+            "id": 660,
+            "name": "Pandji Pragiwaksono"
+        },
+        {
+            "id": 661,
+            "name": "Parlindungan Marpaung"
+        },
+        {
+            "id": 662,
+            "name": "Parmenides"
+        },
+        {
+            "id": 663,
+            "name": "Pat Riley"
+        },
+        {
+            "id": 664,
+            "name": "Patricia Neal"
+        },
+        {
+            "id": 665,
+            "name": "Patrick Modiano"
+        },
+        {
+            "id": 666,
+            "name": "Paul Bourget"
+        },
+        {
+            "id": 667,
+            "name": "Paul Brulat"
+        },
+        {
+            "id": 668,
+            "name": "Paul Claudel"
+        },
+        {
+            "id": 669,
+            "name": "Paul Léautaud"
+        },
+        {
+            "id": 670,
+            "name": "Paul McCartney"
+        },
+        {
+            "id": 671,
+            "name": "Paul Morand"
+        },
+        {
+            "id": 672,
+            "name": "Paul Tillich"
+        },
+        {
+            "id": 673,
+            "name": "Paul Valéry"
+        },
+        {
+            "id": 674,
+            "name": "Paul Éluard"
+        },
+        {
+            "id": 675,
+            "name": "Pauline Leander"
+        },
+        {
+            "id": 676,
+            "name": "Paulo Coelho"
+        },
+        {
+            "id": 677,
+            "name": "Paus Yohanes Paulus II"
+        },
+        {
+            "id": 678,
+            "name": "Pavel Durov"
+        },
+        {
+            "id": 679,
+            "name": "Pearl S. Buck"
+        },
+        {
+            "id": 680,
+            "name": "Pepeng Soebardi Ferrasta"
+        },
+        {
+            "id": 681,
+            "name": "Peter Bamm"
+        },
+        {
+            "id": 682,
+            "name": "Peter Cook"
+        },
+        {
+            "id": 683,
+            "name": "Peter McWilliams"
+        },
+        {
+            "id": 684,
+            "name": "Peter Sirius"
+        },
+        {
+            "id": 685,
+            "name": "Peter Ustinov"
+        },
+        {
+            "id": 686,
+            "name": "Phil McGraw"
+        },
+        {
+            "id": 687,
+            "name": "Philip James Bailey"
+        },
+        {
+            "id": 688,
+            "name": "Philip K. Dick"
+        },
+        {
+            "id": 689,
+            "name": "Philip Massinger"
+        },
+        {
+            "id": 690,
+            "name": "Philippe Soupault"
+        },
+        {
+            "id": 691,
+            "name": "Phyllis Bottome"
+        },
+        {
+            "id": 692,
+            "name": "Pia Devina"
+        },
+        {
+            "id": 693,
+            "name": "Pidi Baiq"
+        },
+        {
+            "id": 694,
+            "name": "Pierre Carlet de Chamblain de Marivaux"
+        },
+        {
+            "id": 695,
+            "name": "Pierre Corneille"
+        },
+        {
+            "id": 696,
+            "name": "Pierre Dac"
+        },
+        {
+            "id": 697,
+            "name": "Pierre Reverdy"
+        },
+        {
+            "id": 698,
+            "name": "Plato"
+        },
+        {
+            "id": 699,
+            "name": "Prabowo Subianto"
+        },
+        {
+            "id": 700,
+            "name": "Pramoedya Ananta Toer"
+        },
+        {
+            "id": 701,
+            "name": "Pratama Yoga Nugroho"
+        },
+        {
+            "id": 702,
+            "name": "Pricillia A. W."
+        },
+        {
+            "id": 703,
+            "name": "Prilly Latuconsina"
+        },
+        {
+            "id": 704,
+            "name": "Primadonna Angela"
+        },
+        {
+            "id": 705,
+            "name": "Prisca Primasari"
+        },
+        {
+            "id": 706,
+            "name": "Priska Devina"
+        },
+        {
+            "id": 707,
+            "name": "Publilius Syrus"
+        },
+        {
+            "id": 708,
+            "name": "Putu Kurniawati"
+        },
+        {
+            "id": 709,
+            "name": "Putu Wijaya"
+        },
+        {
+            "id": 710,
+            "name": "Pythagoras"
+        },
+        {
+            "id": 711,
+            "name": "Raden Adjeng Kartini"
+        },
+        {
+            "id": 712,
+            "name": "Raditya Dika"
+        },
+        {
+            "id": 713,
+            "name": "Ralph Waldo Emerson"
+        },
+        {
+            "id": 714,
+            "name": "Randolph Silliman Bourne"
+        },
+        {
+            "id": 715,
+            "name": "Rantau Anggun"
+        },
+        {
+            "id": 716,
+            "name": "Remy Sylado"
+        },
+        {
+            "id": 717,
+            "name": "Rene Descartes"
+        },
+        {
+            "id": 718,
+            "name": "Rev. Robert Hall"
+        },
+        {
+            "id": 719,
+            "name": "Rhein Fathia"
+        },
+        {
+            "id": 720,
+            "name": "Rhoma Irama"
+        },
+        {
+            "id": 721,
+            "name": "Ria N. Badaria"
+        },
+        {
+            "id": 722,
+            "name": "Richard Bach"
+        },
+        {
+            "id": 723,
+            "name": "Richard Dawkins"
+        },
+        {
+            "id": 724,
+            "name": "Richard Gere"
+        },
+        {
+            "id": 725,
+            "name": "Richard P. Feynman"
+        },
+        {
+            "id": 726,
+            "name": "Ridwan Kamil"
+        },
+        {
+            "id": 727,
+            "name": "Rina Suryakusuma"
+        },
+        {
+            "id": 728,
+            "name": "Riri Sardjono"
+        },
+        {
+            "id": 729,
+            "name": "Risda Nur Widia"
+        },
+        {
+            "id": 730,
+            "name": "Rizal Ramli"
+        },
+        {
+            "id": 731,
+            "name": "Robert Frost"
+        },
+        {
+            "id": 732,
+            "name": "Robert Green Ingersoll"
+        },
+        {
+            "id": 733,
+            "name": "Robert Lembke"
+        },
+        {
+            "id": 734,
+            "name": "Robert Oppenheimer"
+        },
+        {
+            "id": 735,
+            "name": "Rohmatikal Maskur"
+        },
+        {
+            "id": 736,
+            "name": "Ron Kritzfeld"
+        },
+        {
+            "id": 737,
+            "name": "Ronald Reagan"
+        },
+        {
+            "id": 738,
+            "name": "Ruth Graham"
+        },
+        {
+            "id": 739,
+            "name": "Ruwi Meita"
+        },
+        {
+            "id": 740,
+            "name": "Sacha Guitry"
+        },
+        {
+            "id": 741,
+            "name": "Sakaki Tsukasa"
+        },
+        {
+            "id": 742,
+            "name": "Salim A Fillah"
+        },
+        {
+            "id": 743,
+            "name": "Salim Darmadi"
+        },
+        {
+            "id": 744,
+            "name": "Sallustius"
+        },
+        {
+            "id": 745,
+            "name": "Salman Rushdie"
+        },
+        {
+            "id": 746,
+            "name": "Salsa Putri"
+        },
+        {
+            "id": 747,
+            "name": "Salvador Dali"
+        },
+        {
+            "id": 748,
+            "name": "Sam Maulana"
+        },
+        {
+            "id": 749,
+            "name": "Sam Walton"
+        },
+        {
+            "id": 750,
+            "name": "Samuel Beckett"
+        },
+        {
+            "id": 751,
+            "name": "Samuel Johnson"
+        },
+        {
+            "id": 752,
+            "name": "Sandi Firly"
+        },
+        {
+            "id": 753,
+            "name": "Sandra Brown"
+        },
+        {
+            "id": 754,
+            "name": "Sanie B. Kuncoro"
+        },
+        {
+            "id": 755,
+            "name": "Sapardi Djoko Damono"
+        },
+        {
+            "id": 756,
+            "name": "Sarah Monk"
+        },
+        {
+            "id": 757,
+            "name": "Sari Agustia"
+        },
+        {
+            "id": 758,
+            "name": "Sari Musdar"
+        },
+        {
+            "id": 759,
+            "name": "Seneca"
+        },
+        {
+            "id": 760,
+            "name": "Seno Gumira Ajidarma"
+        },
+        {
+            "id": 761,
+            "name": "Seto Mulyadi"
+        },
+        {
+            "id": 762,
+            "name": "Shakira"
+        },
+        {
+            "id": 763,
+            "name": "Shandy Tan"
+        },
+        {
+            "id": 764,
+            "name": "Sherina Salsabila"
+        },
+        {
+            "id": 765,
+            "name": "Sheva Thalia"
+        },
+        {
+            "id": 766,
+            "name": "Sigmund Freud"
+        },
+        {
+            "id": 767,
+            "name": "Silvarani"
+        },
+        {
+            "id": 768,
+            "name": "Simone de Beauvoir"
+        },
+        {
+            "id": 769,
+            "name": "Sir Arthur Conan Doyle"
+        },
+        {
+            "id": 770,
+            "name": "Sir Walter Raleigh"
+        },
+        {
+            "id": 771,
+            "name": "Socrates"
+        },
+        {
+            "id": 772,
+            "name": "Soe Hok Gie"
+        },
+        {
+            "id": 773,
+            "name": "Soeharto"
+        },
+        {
+            "id": 774,
+            "name": "Soekarno"
+        },
+        {
+            "id": 775,
+            "name": "Soeprijadi"
+        },
+        {
+            "id": 776,
+            "name": "Sofi Meloni"
+        },
+        {
+            "id": 777,
+            "name": "Sophocles"
+        },
+        {
+            "id": 778,
+            "name": "Soraya Nasution"
+        },
+        {
+            "id": 779,
+            "name": "Stephen Covey"
+        },
+        {
+            "id": 780,
+            "name": "Stephen Hawking"
+        },
+        {
+            "id": 781,
+            "name": "Stephen King"
+        },
+        {
+            "id": 782,
+            "name": "Stephie Anindita"
+        },
+        {
+            "id": 783,
+            "name": "Steve Maraboli"
+        },
+        {
+            "id": 784,
+            "name": "Sujiwo Tejo"
+        },
+        {
+            "id": 785,
+            "name": "Sun Tzu"
+        },
+        {
+            "id": 786,
+            "name": "Sungging Raga"
+        },
+        {
+            "id": 787,
+            "name": "Susi Pudjiastuti"
+        },
+        {
+            "id": 788,
+            "name": "Sutan Salim Nasution"
+        },
+        {
+            "id": 789,
+            "name": "Sutan Syahrir"
+        },
+        {
+            "id": 790,
+            "name": "Sutiyoso"
+        },
+        {
+            "id": 791,
+            "name": "Syafruddin Prawiranegara"
+        },
+        {
+            "id": 792,
+            "name": "Syifa Khairunnisa"
+        },
+        {
+            "id": 793,
+            "name": "Sylvia Plath"
+        },
+        {
+            "id": 794,
+            "name": "Sören Kierkegaard"
+        },
+        {
+            "id": 795,
+            "name": "Tan Malaka"
+        },
+        {
+            "id": 796,
+            "name": "Tasaro G K"
+        },
+        {
+            "id": 797,
+            "name": "Taylor Swift"
+        },
+        {
+            "id": 798,
+            "name": "Teddy W. Kusuma"
+        },
+        {
+            "id": 799,
+            "name": "Tere Liye"
+        },
+        {
+            "id": 800,
+            "name": "Thom Gunn"
+        },
+        {
+            "id": 801,
+            "name": "Thomas B. Macaulay"
+        },
+        {
+            "id": 802,
+            "name": "Thomas Fuller"
+        },
+        {
+            "id": 803,
+            "name": "Thomas Hardy"
+        },
+        {
+            "id": 804,
+            "name": "Thomas Hobbes"
+        },
+        {
+            "id": 805,
+            "name": "Thomas J. Watson"
+        },
+        {
+            "id": 806,
+            "name": "Todd Ashley"
+        },
+        {
+            "id": 807,
+            "name": "Tony Q Rastafara"
+        },
+        {
+            "id": 808,
+            "name": "Tony Robbins"
+        },
+        {
+            "id": 809,
+            "name": "Travis Barker"
+        },
+        {
+            "id": 810,
+            "name": "Tri Rismaharini"
+        },
+        {
+            "id": 811,
+            "name": "Tria Barmawi"
+        },
+        {
+            "id": 812,
+            "name": "Triani Retno A."
+        },
+        {
+            "id": 813,
+            "name": "Tuanku Imam Bonjol"
+        },
+        {
+            "id": 814,
+            "name": "Ullan Pralihanta"
+        },
+        {
+            "id": 815,
+            "name": "Umar bin Khattab"
+        },
+        {
+            "id": 816,
+            "name": "Umbu Landu Paranggi"
+        },
+        {
+            "id": 817,
+            "name": "Victor Hugo"
+        },
+        {
+            "id": 818,
+            "name": "Vincent Van Gogh"
+        },
+        {
+            "id": 819,
+            "name": "Vini Sadewa"
+        },
+        {
+            "id": 820,
+            "name": "Vira Safitri"
+        },
+        {
+            "id": 821,
+            "name": "Virginia Woolf"
+        },
+        {
+            "id": 822,
+            "name": "Voltaire"
+        },
+        {
+            "id": 823,
+            "name": "W.S. Rendra"
+        },
+        {
+            "id": 824,
+            "name": "Wallace Arnold"
+        },
+        {
+            "id": 825,
+            "name": "Walt Disney"
+        },
+        {
+            "id": 826,
+            "name": "Warren Buffet"
+        },
+        {
+            "id": 827,
+            "name": "Warren Buffett"
+        },
+        {
+            "id": 828,
+            "name": "Wayne Dyer"
+        },
+        {
+            "id": 829,
+            "name": "Wes Craven"
+        },
+        {
+            "id": 830,
+            "name": "Wijayanto"
+        },
+        {
+            "id": 831,
+            "name": "Wiji Thukul"
+        },
+        {
+            "id": 832,
+            "name": "Wilfred A. Peterson"
+        },
+        {
+            "id": 833,
+            "name": "Will Durant"
+        },
+        {
+            "id": 834,
+            "name": "Will Smith"
+        },
+        {
+            "id": 835,
+            "name": "William Arthur Ward"
+        },
+        {
+            "id": 836,
+            "name": "William Blake"
+        },
+        {
+            "id": 837,
+            "name": "William Shakespeare"
+        },
+        {
+            "id": 838,
+            "name": "William Somerset Maugham"
+        },
+        {
+            "id": 839,
+            "name": "Windhi Puspitadewi"
+        },
+        {
+            "id": 840,
+            "name": "Windry Ramadhina"
+        },
+        {
+            "id": 841,
+            "name": "Winna Efendi"
+        },
+        {
+            "id": 842,
+            "name": "Winston Churchill"
+        },
+        {
+            "id": 843,
+            "name": "Wira Nagara"
+        },
+        {
+            "id": 844,
+            "name": "Woody Allen"
+        },
+        {
+            "id": 845,
+            "name": "Y.B Mangunwijaya"
+        },
+        {
+            "id": 846,
+            "name": "Yohanes Calvin"
+        },
+        {
+            "id": 847,
+            "name": "Yuli Pritania"
+        },
+        {
+            "id": 848,
+            "name": "Yusri Abdul Ghani Abdullah"
+        },
+        {
+            "id": 849,
+            "name": "Zainul DK"
+        },
+        {
+            "id": 850,
+            "name": "Zeno dari Elea"
+        },
+        {
+            "id": 851,
+            "name": "Zig Ziglar"
+        },
+        {
+            "id": 852,
+            "name": "Ziggy Zezsyazeoviennazabrizkie"
+        }
+    ]
+}
