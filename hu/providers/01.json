@@ -1,0 +1,60 @@
+{
+    "contents": [
+        {
+            "id": 0,
+            "name": "Püthagorasz",
+            "label": "ókori görög filozófus",
+            "image": "Pythagoras.webp",
+            "url": "https://hu.wikipedia.org/wiki/P%C3%BCthagorasz",
+            "body": "Születési dátum: 585 i.e.\nHalál dátuma: 495 i.e.\nMás nevek: Ze Samu Pýthagorás\n\nSzamoszi Püthagorasz , ión származású, preszókratikus filozófus és matematikus, a püthagoreus filozófiai iskola megalapítója. Nevét ma a matematikában a Pitagorasz-tétel viseli . Tanítványaival máig ható eredményeket ért el a csillagászatban, a matematikában és a zeneelméletben.\n\n„A számok atyja” néven is emlegették, mert a püthagoreusok számára a legfontosabb tudomány a matematika volt: azt tanították, hogy minden dolog kulcsa a számokban rejtezik. Életét kevéssé ismerjük, mert bár jelentős hatással volt a preszókratikus kor görög filozófiára az i. e. 6. században, már életében legendák és mítoszok övezték. Ezek terjesztéséhez a püthagoreusok is hozzájárultak, mivel afféle félistenként tisztelték mesterüket."
+        },
+        {
+            "id": 0,
+            "name": "Platón",
+            "label": "ókori görög filozófus",
+            "image": "Plato2.webp",
+            "url": "https://en.wikipedia.org/wiki/Plato",
+            "body": "Születési dátum: 7. május 427 i.e.\nHalál dátuma: 347 i.e.\nMás nevek: Plato\n\nPlatón , , ókori görög filozófus, iskolaalapító. Hatása jelentős volt az ókori és a középkori filozófiára, művei manapság is viták és filozófiai vizsgálódások tárgyát képezik. Munkásságának nemcsak társadalomtudományi, hanem irodalmi értéke is nagy jelentőséggel bír.\n\nEgy Alfred North Whiteheadtől származó szállóige szerint az egész európai filozófia nem más, mint egy sor, Platónhoz fűzött lábjegyzet. Karl Jaspers szerint egyike volt az ún. tengelykor meghatározó gondolkodóinak.\n\n"
+        },
+        {
+            "id": 0,
+            "name": "Konfuciusz",
+            "label": "Kínai filozófus",
+            "image": "Confucius.webp",
+            "url": "https://hu.wikipedia.org/wiki/Konfuciusz",
+            "body": "Latinos névformában Konfuciusz , kínaiul: 孔子; pin-jin hangsúlyjelekkel: Kǒngzǐ; ezt magyarosítva: Kung-ce Kína legjelentősebb filozófusainak egyike. A hagyomány szerint i. e. 551-től i. e. 479-ig élt Kína keleti részén, Lu fejedelemségében . Bölcseleteit a Beszélgetések és mondások című mű tartalmazza, amelyet tanítványai, illetve azok követői jegyeztek le. Konfuciusz alapította meg az „írástudók iskoláját” , amit Nyugaton konfuciánus iskolaként ismernek. Tanításai a kínai kultúra és gondolkodás alapjává váltak. Filozófiájának hatása mind a mai napig töretlenül meghatározó szerepet játszik egész Délkelet-Ázsiában. A mester bölcselete ma már nemcsak Kínában éli egyre erősödő reneszánszát, hanem az egész világon mind többen fordulnak elismeréssel felé."
+        },
+        {
+            "id": 0,
+            "name": "Seneca",
+            "label": "római sztoikus filozófus",
+            "image": "Seneca.webp",
+            "url": "https://hu.wikipedia.org/wiki/Lucius_Annaeus_Seneca",
+            "body": "Lucius Annaeus Seneca római sztoikus filozófus, drámaíró és államférfi. Édesapjától megkülönböztetendő, ifjabb Senecának is nevezik."
+        },
+        {
+            "id": 0,
+            "name": "Cicero",
+            "label": "ókori római író, filozófus és politikus",
+            "image": "Cicero.webp",
+            "url": "https://hu.wikipedia.org/wiki/Cicero",
+            "body": "Születési dátum: 3. január 106 i.e.\nHalál dátuma: 7. december 43 i.e.\nMás nevek: Marcus T. Cicero, Цицерон\n\nMarcus Tullius Cicero ókori római író, filozófus és politikus. Kortársai – köztük politikai ellenfelei is – ragyogó, már-már boszorkányos tehetségű szónoknak tartották, de írásai is remekművek. Mindenképp az antik irodalom egyik óriása, de a tankönyvek általában abban is megegyeznek, hogy ő az antik széppróza legnagyobb mestere. Ehhez hozzájárul az is, hogy azon kevés ókori szerzők közé tartozik, akiknek művei nem töredékesek, hiánytalanul maradtak meg: számtalan levele, bírósági vád- és védőbeszéde, filozófiai és esztétikai értekezése túlélte az évezredeket. Filozófusként is számottevő .\n\nPolitikusi karrierje is rendkívüli, nemzetségéből elsőként tölthetett be állami tisztségeket , végül egész a konzulságig eljutott, s e minőségében elsősorban az ő nevéhez fűződik az „államellenesnek” tartott Catilina-féle összeesküvés leleplezése, amiért a szenátus magas kitüntetésben részesítette. Élete erőszakos halállal ért véget, mivel a köztársaságkor végének köztársaságpárti politikusaként többször is a vesztes oldalra állt. Az utókor nem egységes politikájának megítélésében: hogy csak a szélsőségeket említsük, egyesek a köztársaság népellenes plutokrata elitjének hiú, törtető, kapzsi, cinikus, demagóg, és maradi szolgájaként festik le, míg mások a szabadság, a hagyományok és a régi értékek bátor védelmezőjének a kibontakozóban lévő emberellenes, egyeduralmi diktatúrával szemben.\n\nÉrdekesség, hogy állítólag ő találta meg Arkhimédész szicíliai sírját, melyet a helyi görögök már elfeledtek, és nem tudtak megmutatni az utazóknak."
+        },
+        {
+            "id": 0,
+            "name": "Buddha",
+            "label": "ókori bölcs",
+            "image": "Buddha.webp",
+            "url": "https://hu.wikipedia.org/wiki/Buddha",
+            "body": "Születési dátum: 8. április 563 i.e.\nHalál dátuma: 483 i.e.\nMás nevek: Budha\n\nGautama Sziddhártha, Gautama Buddha, Sákjamuni Buddha vagy egyszerűen a Buddha, ókori bölcs, a buddhizmus meghatározó alakja. Úgy tartják, hogy elsősorban Kelet-Indiában élt és tanított, valamikor az i. e. 6. és 4. század között .A buddha szó jelentése „a felébredett” vagy „a megvilágosodott”. Nagy kezdőbetűs alakja a történelmi Buddhára vonatkozik, kis kezdőbetűs alakja jelentheti a buddhista kozmológiában használt, minden történelmi korszak megvilágosodott lényeit, akik elérték a megvilágosodott tudatszintet. A buddhizmusban úgy tartják, hogy végtelen számú buddha létezett korábban és végtelen számú fog még létezni a jövőben is . A legtöbb buddhista hagyományban Gautama Sziddhárthát tekintik korunk legmagasabb rendű buddhájának . Gautama az ókori Indiában az érzéki örömök halmozása és az aszkézis közötti középutat tanította. Később India keleti részén is tanított, Magadha és Kosala ősi királyságokban.\n\nGautama a buddhizmus első számú alakja, akiről a buddhista követők úgy tartják, hogy az élete történéseit, tanítóbeszédeit, illetve az általa tanácsolt szerzetesi fogadalmakat a halála után összefoglalták és szájról szájra hagyományozták tovább a bhikkhuk , a bhikkhunik és a világi emberek, azaz a szangha . A neki tulajdonított tanításokat először a halála utáni Első buddhista tanácskozáson, tanítványa, Ánanda szavai alapján írták le a buddhista tudósok. Karl Jaspers szerint egyike volt az ún. tengelykor meghatározó gondolkodóinak.\n\nA hagyományok szerint az északkelet-indiai és a nepáli határ közelében lévő Kapilavasztu városában uralkodó király, Suddhódana fia volt, s a mai Nepál területén, Lumbiniben született. Anyanyelve a mágadhi prakrit nyelv volt.Huszonkilenc évesen családját, feleségét és csecsemő fiát elhagyva az igazság keresésének szentelte életét. Több évi aszkézis után rájött, hogy testének kínzásával csak elhomályosítja az elméjét, de nem jutott közelebb az igazi bölcsességhez, ezért felhagyott az önsanyargatással. Végül az emberi létezés nagy kérdéseivel viaskodva a Bódhifa alatt meditálva rátalált a megoldásra, és buddhává, vagyis „megvilágosodottá” vált. Ekkor harmincöt éves volt. Életének hátralévő idejében Észak-Indiát bejárva terjesztette életfilozófiáját, és haláláig ezrek váltak a követőivé. Legfőbb tanításait a „négy nemes igazság” foglalja össze:\n\naz emberi élet lényegében szenvedéssel teli ;\n\ne szenvedés oka az emberi önzés és vágyakozás;\n\nvan egy út, amellyel megszabadulhatunk az önzéstől és vágyakozástól;\n\na megszabaduláshoz az ún. „nemes nyolcrétű ösvény” vezet: a helyes szemlélet, a helyes gondolkodás, a helyes beszéd, a helyes cselekvés, a helyes élet, a helyes törekvés, a helyes vizsgálódás, a helyes elmélyedés."
+        },
+        {
+            "id": 0,
+            "name": "William Shakespeare",
+            "label": "angol drámaíró",
+            "image": "William_Shakespeare.webp",
+            "url": "https://hu.wikipedia.org/wiki/William_Shakespeare",
+            "body": "Születési dátum: 1564\nHalál dátuma: 23. április 1616\n\nWilliam Shakespeare [ˈwɪljəm ˈʃeɪkspɪə] angol drámaíró, költő, színész.\n\nAz angol nyelvű drámaírás egyik legnagyobb alakja, világirodalmi öröksége és hatása a világ minden táján fellelhető. Angliában mint a nemzet dalnokát tisztelik . Püthagorasz szerint a költők lelke haláluk után hattyútestbe költözik, talán ezért nevezte Benjamin Jonson drámaíró a kortársát „Avon édes hattyújának”. Műveit az élő nyelvek majd mindegyikére lefordították, és színműveit folyamatosan játsszák a világ színpadain. Shakespeare azon kevés drámaírók közé tartozik, akik mind a komédia, mind a tragédia műfajában számos maradandó művet alkottak.\n\nA Shakespeare életét igazoló adatok meglehetősen hiányosak, emiatt később a személyisége, de főleg a műveinek szerzői hitele is megkérdőjeleződött, ezektől a véleményektől függetlenül azonban a művelődéstörténet valós önálló személynek és szerzőnek tekinti."
+        }
+    ]
+}
