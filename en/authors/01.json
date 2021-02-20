@@ -1,49 +1,2264 @@
-{"contents":[{"id":1,"name":"A.S. Makarenko"},
-{"id":2,"name":"Aristotle"},
-{"id":3,"name":"B.Russell"},
-{"id":4,"name":"K.Hosseini"},
-{"id":5,"name":"H.-F.Amiel"},
-{"id":6,"name":"F.Herbert"},
-{"id":7,"name":"Plato"},
-{"id":8,"name":"Socrates"},
-{"id":9,"name":"Heraclitus"},
-{"id":10,"name":"Epicurus"},
-{"id":11,"name":"Democritus"},
-{"id":12,"name":"W.Shakespeare"},
-{"id":13,"name":"Lao Tzu"},
-{"id":14,"name":"Confucius"},
-{"id":15,"name":"V.E.Frankl"},
-{"id":16,"name":"Maimonides"},
-{"id":17,"name":"Friedrich Nietzsche"},
-{"id":18,"name":"Immanuel Kant"},
-{"id":19,"name":"Karl Marx"},
-{"id":20,"name":"Buddha"},
-{"id":21,"name":"Jesus Christ"},
-{"id":22,"name":"Alexander the Great"},
-{"id":23,"name":"Mahatma Gandhi"},
-{"id":24,"name":"Julius Caesar"},
-{"id":25,"name":"Marcus Aurelius"},
-{"id":26,"name":"Johann Wolfgang von Goethe"},
-{"id":27,"name":"Avicenna"},
-{"id":28,"name":"Moses"},
-{"id":29,"name":"Milarepa"},
-{"id":30,"name":"Saadi"},
-{"id":31,"name":"Lewis Carroll"},
-{"id":32,"name":"J. K. Rowling"},
-{"id":33,"name":"Marie Curie"},
-{"id":34,"name":"Vladimir Lenin"},
-{"id":35,"name":"Napoleon Bonaparte"},
-{"id":36,"name":"Honore de Balzac"},
-{"id":37,"name":"Antoine de Saint-Exupery"},
-{"id":38,"name":"Abraham Lincoln"},
-{"id":39,"name":"Nikola Tesla"},
-{"id":40,"name":"Plutarch"},
-{"id":41,"name":"Paracelsus"},
-{"id":42,"name":"Hippocrates"},
-{"id":43,"name":"Pericles"},
-{"id":44,"name":"Pythagoras"},
-{"id":45,"name":"Albert Einstein"},
-{"id":46,"name":"Albert Camus"},
-{"id":47,"name":"Seneca the Younger"},
-{"id":48,"name":"Cicero"}
-]}
+{
+    "contents": [
+        {
+            "id": 1,
+            "name": "A.S. Makarenko"
+        },
+        {
+            "id": 2,
+            "name": "Aristotle"
+        },
+        {
+            "id": 3,
+            "name": "B.Russell"
+        },
+        {
+            "id": 4,
+            "name": "K.Hosseini"
+        },
+        {
+            "id": 5,
+            "name": "H.-F.Amiel"
+        },
+        {
+            "id": 6,
+            "name": "F.Herbert"
+        },
+        {
+            "id": 7,
+            "name": "Plato"
+        },
+        {
+            "id": 8,
+            "name": "Socrates"
+        },
+        {
+            "id": 9,
+            "name": "Heraclitus"
+        },
+        {
+            "id": 10,
+            "name": "Epicurus"
+        },
+        {
+            "id": 11,
+            "name": "Democritus"
+        },
+        {
+            "id": 12,
+            "name": "W.Shakespeare"
+        },
+        {
+            "id": 13,
+            "name": "Lao Tzu"
+        },
+        {
+            "id": 14,
+            "name": "Confucius"
+        },
+        {
+            "id": 15,
+            "name": "V.E.Frankl"
+        },
+        {
+            "id": 16,
+            "name": "Maimonides"
+        },
+        {
+            "id": 17,
+            "name": "Friedrich Nietzsche"
+        },
+        {
+            "id": 18,
+            "name": "Immanuel Kant"
+        },
+        {
+            "id": 19,
+            "name": "Karl Marx"
+        },
+        {
+            "id": 20,
+            "name": "Buddha"
+        },
+        {
+            "id": 21,
+            "name": "Jesus Christ"
+        },
+        {
+            "id": 22,
+            "name": "Alexander the Great"
+        },
+        {
+            "id": 23,
+            "name": "Mahatma Gandhi"
+        },
+        {
+            "id": 24,
+            "name": "Julius Caesar"
+        },
+        {
+            "id": 25,
+            "name": "Marcus Aurelius"
+        },
+        {
+            "id": 26,
+            "name": "Johann Wolfgang von Goethe"
+        },
+        {
+            "id": 27,
+            "name": "Avicenna"
+        },
+        {
+            "id": 28,
+            "name": "Moses"
+        },
+        {
+            "id": 29,
+            "name": "Milarepa"
+        },
+        {
+            "id": 30,
+            "name": "Saadi"
+        },
+        {
+            "id": 31,
+            "name": "Lewis Carroll"
+        },
+        {
+            "id": 32,
+            "name": "J. K. Rowling"
+        },
+        {
+            "id": 33,
+            "name": "Marie Curie"
+        },
+        {
+            "id": 34,
+            "name": "Vladimir Lenin"
+        },
+        {
+            "id": 35,
+            "name": "Napoleon Bonaparte"
+        },
+        {
+            "id": 36,
+            "name": "Honore de Balzac"
+        },
+        {
+            "id": 37,
+            "name": "Antoine de Saint-Exupery"
+        },
+        {
+            "id": 38,
+            "name": "Abraham Lincoln"
+        },
+        {
+            "id": 39,
+            "name": "Nikola Tesla"
+        },
+        {
+            "id": 40,
+            "name": "Plutarch"
+        },
+        {
+            "id": 41,
+            "name": "Paracelsus"
+        },
+        {
+            "id": 42,
+            "name": "Hippocrates"
+        },
+        {
+            "id": 43,
+            "name": "Pericles"
+        },
+        {
+            "id": 44,
+            "name": "Pythagoras"
+        },
+        {
+            "id": 45,
+            "name": "Albert Einstein"
+        },
+        {
+            "id": 46,
+            "name": "Albert Camus"
+        },
+        {
+            "id": 47,
+            "name": "Seneca the Younger"
+        },
+        {
+            "id": 48,
+            "name": "Cicero"
+        },
+        {
+            "id": 49,
+            "name": "Ayn Rand"
+        },
+        {
+            "id": 50,
+            "name": "Baba Hari Dass"
+        },
+        {
+            "id": 51,
+            "name": "Baltasar Gracián"
+        },
+        {
+            "id": 52,
+            "name": "Banksy"
+        },
+        {
+            "id": 53,
+            "name": "Barack Obama"
+        },
+        {
+            "id": 54,
+            "name": "Barbara Walters"
+        },
+        {
+            "id": 55,
+            "name": "Barbra Streisand"
+        },
+        {
+            "id": 56,
+            "name": "Bartolomé de las Casas"
+        },
+        {
+            "id": 57,
+            "name": "Baruch Spinoza"
+        },
+        {
+            "id": 58,
+            "name": "Bell Hooks"
+        },
+        {
+            "id": 59,
+            "name": "Ben Carson"
+        },
+        {
+            "id": 60,
+            "name": "Benjamin Franklin"
+        },
+        {
+            "id": 61,
+            "name": "Benjamin Hoff"
+        },
+        {
+            "id": 62,
+            "name": "Benoît Mandelbrot"
+        },
+        {
+            "id": 63,
+            "name": "Bernard Baruch"
+        },
+        {
+            "id": 64,
+            "name": "Bernie Sanders"
+        },
+        {
+            "id": 65,
+            "name": "Bertrand Russell"
+        },
+        {
+            "id": 66,
+            "name": "Bettina von Arnim"
+        },
+        {
+            "id": 67,
+            "name": "Bill Gates"
+        },
+        {
+            "id": 68,
+            "name": "Bill Shankly"
+        },
+        {
+            "id": 69,
+            "name": "Billie Eilish"
+        },
+        {
+            "id": 70,
+            "name": "Billy Graham"
+        },
+        {
+            "id": 71,
+            "name": "Billy Hughes"
+        },
+        {
+            "id": 72,
+            "name": "Black Elk"
+        },
+        {
+            "id": 73,
+            "name": "Blaise Pascal"
+        },
+        {
+            "id": 74,
+            "name": "Bob Marley"
+        },
+        {
+            "id": 75,
+            "name": "Boutros Boutros-Ghali"
+        },
+        {
+            "id": 76,
+            "name": "Брайан Молко"
+        },
+        {
+            "id": 77,
+            "name": "Bram Stoker"
+        },
+        {
+            "id": 78,
+            "name": "Brian Tracy"
+        },
+        {
+            "id": 79,
+            "name": "Bruce Lee"
+        },
+        {
+            "id": 80,
+            "name": "Bruce Springsteen"
+        },
+        {
+            "id": 81,
+            "name": "Bryant Jennings"
+        },
+        {
+            "id": 82,
+            "name": "Calvin Coolidge"
+        },
+        {
+            "id": 83,
+            "name": "Carl Sagan"
+        },
+        {
+            "id": 84,
+            "name": "Carl Schurz"
+        },
+        {
+            "id": 85,
+            "name": "Carlos Ruiz Zafón"
+        },
+        {
+            "id": 86,
+            "name": "Caspar David Friedrich"
+        },
+        {
+            "id": 87,
+            "name": "Cassandra Clare"
+        },
+        {
+            "id": 88,
+            "name": "Cesar Chavez"
+        },
+        {
+            "id": 89,
+            "name": "Cesare Pavese"
+        },
+        {
+            "id": 90,
+            "name": "C.G. Jung"
+        },
+        {
+            "id": 91,
+            "name": "Charles Baudelaire"
+        },
+        {
+            "id": 92,
+            "name": "Charles Bukowski"
+        },
+        {
+            "id": 93,
+            "name": "Charles de Gaulle"
+        },
+        {
+            "id": 94,
+            "name": "Charles Dickens"
+        },
+        {
+            "id": 95,
+            "name": "Charles Dupin"
+        },
+        {
+            "id": 96,
+            "name": "Charles Maturin"
+        },
+        {
+            "id": 97,
+            "name": "Charles Spurgeon"
+        },
+        {
+            "id": 98,
+            "name": "Chester Bennington"
+        },
+        {
+            "id": 99,
+            "name": "Chi­ma­man­da Ngo­zi Adi­chie"
+        },
+        {
+            "id": 100,
+            "name": "Christian Bale"
+        },
+        {
+            "id": 101,
+            "name": "Christopher Paolini"
+        },
+        {
+            "id": 102,
+            "name": "Christopher Reeve"
+        },
+        {
+            "id": 103,
+            "name": "Chuba Okadigbo"
+        },
+        {
+            "id": 104,
+            "name": "Chuck Palahniuk"
+        },
+        {
+            "id": 105,
+            "name": "Clint Eastwood"
+        },
+        {
+            "id": 106,
+            "name": "Clive Staples Lewis"
+        },
+        {
+            "id": 107,
+            "name": "Coco Chanel"
+        },
+        {
+            "id": 108,
+            "name": "Colette"
+        },
+        {
+            "id": 109,
+            "name": "Confucius"
+        },
+        {
+            "id": 110,
+            "name": "Cornell Woolrich"
+        },
+        {
+            "id": 111,
+            "name": "Corrie ten Boom"
+        },
+        {
+            "id": 112,
+            "name": "Czeslaw Milosz"
+        },
+        {
+            "id": 113,
+            "name": "Dale Carnegie"
+        },
+        {
+            "id": 114,
+            "name": "Dan Brown"
+        },
+        {
+            "id": 115,
+            "name": "Dana White"
+        },
+        {
+            "id": 116,
+            "name": "David Attenborough"
+        },
+        {
+            "id": 117,
+            "name": "David Benioff"
+        },
+        {
+            "id": 118,
+            "name": "David Boreanaz"
+        },
+        {
+            "id": 119,
+            "name": "David Bowie"
+        },
+        {
+            "id": 120,
+            "name": "David Cameron"
+        },
+        {
+            "id": 121,
+            "name": "David Gemmell"
+        },
+        {
+            "id": 122,
+            "name": "David Icke"
+        },
+        {
+            "id": 123,
+            "name": "David Lynch"
+        },
+        {
+            "id": 124,
+            "name": "David Tennant"
+        },
+        {
+            "id": 125,
+            "name": "Dawn Hampton"
+        },
+        {
+            "id": 126,
+            "name": "Dean Koontz"
+        },
+        {
+            "id": 127,
+            "name": "Deendayal Upadhyaya"
+        },
+        {
+            "id": 128,
+            "name": "Demi Lovato"
+        },
+        {
+            "id": 129,
+            "name": "Democritus"
+        },
+        {
+            "id": 130,
+            "name": "Denis Diderot"
+        },
+        {
+            "id": 131,
+            "name": "Desmond Tutu"
+        },
+        {
+            "id": 132,
+            "name": "D.H. Lawrence"
+        },
+        {
+            "id": 133,
+            "name": "Diana Vreeland"
+        },
+        {
+            "id": 134,
+            "name": "Dilgo Khyentse"
+        },
+        {
+            "id": 135,
+            "name": "Diogenes Laërtius"
+        },
+        {
+            "id": 136,
+            "name": "Dmitri Mendeleev"
+        },
+        {
+            "id": 137,
+            "name": "Dmitri Shostakovich"
+        },
+        {
+            "id": 138,
+            "name": "Donald J. Trump"
+        },
+        {
+            "id": 139,
+            "name": "Dylan Thomas"
+        },
+        {
+            "id": 140,
+            "name": "Джон Эрнст Стейнбек"
+        },
+        {
+            "id": 141,
+            "name": "E. W. Howe"
+        },
+        {
+            "id": 142,
+            "name": "Edgar Allan Poe"
+        },
+        {
+            "id": 143,
+            "name": "Edgar Degas"
+        },
+        {
+            "id": 144,
+            "name": "Edward Abbey"
+        },
+        {
+            "id": 145,
+            "name": "Edward Heath"
+        },
+        {
+            "id": 146,
+            "name": "Edward Said"
+        },
+        {
+            "id": 147,
+            "name": "Edward Steichen"
+        },
+        {
+            "id": 148,
+            "name": "Elbert Hubbard"
+        },
+        {
+            "id": 149,
+            "name": "Elizabeth Taylor"
+        },
+        {
+            "id": 150,
+            "name": "Ellen DeGeneres"
+        },
+        {
+            "id": 151,
+            "name": "Elvis Presley"
+        },
+        {
+            "id": 152,
+            "name": "E.M. Forster"
+        },
+        {
+            "id": 153,
+            "name": "Emil M. Cioran"
+        },
+        {
+            "id": 154,
+            "name": "Emile Zola"
+        },
+        {
+            "id": 155,
+            "name": "Emiliano Zapata"
+        },
+        {
+            "id": 156,
+            "name": "Emily Post"
+        },
+        {
+            "id": 157,
+            "name": "Eminem"
+        },
+        {
+            "id": 158,
+            "name": "Emlyn Williams"
+        },
+        {
+            "id": 159,
+            "name": "Emo Philips"
+        },
+        {
+            "id": 160,
+            "name": "Epictetus"
+        },
+        {
+            "id": 161,
+            "name": "Eric Berne"
+        },
+        {
+            "id": 162,
+            "name": "Erica Jong"
+        },
+        {
+            "id": 163,
+            "name": "Erich Maria Remarque"
+        },
+        {
+            "id": 164,
+            "name": "Erich von Manstein"
+        },
+        {
+            "id": 165,
+            "name": "Ernest Hemingway"
+        },
+        {
+            "id": 166,
+            "name": "Ernst Thälmann"
+        },
+        {
+            "id": 167,
+            "name": "Erwin Rommel"
+        },
+        {
+            "id": 168,
+            "name": "Esaias Tegnér"
+        },
+        {
+            "id": 169,
+            "name": "Etty Hillesum"
+        },
+        {
+            "id": 170,
+            "name": "Evelyn Waugh"
+        },
+        {
+            "id": 171,
+            "name": "F. Scott Fitzgerald"
+        },
+        {
+            "id": 172,
+            "name": "Felicia Hemans"
+        },
+        {
+            "id": 173,
+            "name": "Fernando Pessoa"
+        },
+        {
+            "id": 174,
+            "name": "Fidel Castro"
+        },
+        {
+            "id": 175,
+            "name": "Flannery O’Connor"
+        },
+        {
+            "id": 176,
+            "name": "Francine du Plessix Gray"
+        },
+        {
+            "id": 177,
+            "name": "Franco Bassani"
+        },
+        {
+            "id": 178,
+            "name": "Franco Battiato"
+        },
+        {
+            "id": 179,
+            "name": "Franco Modigliani"
+        },
+        {
+            "id": 180,
+            "name": "François Bernier"
+        },
+        {
+            "id": 181,
+            "name": "Frank Zappa"
+        },
+        {
+            "id": 182,
+            "name": "Frida Kahlo"
+        },
+        {
+            "id": 183,
+            "name": "Friedrich Engels"
+        },
+        {
+            "id": 184,
+            "name": "Friedrich Nietzsche"
+        },
+        {
+            "id": 185,
+            "name": "Friedrich Schiller"
+        },
+        {
+            "id": 186,
+            "name": "Fyodor Dostoyevsky"
+        },
+        {
+            "id": 187,
+            "name": "Galén"
+        },
+        {
+            "id": 188,
+            "name": "Gancho Tsenov"
+        },
+        {
+            "id": 189,
+            "name": "Gaurav Sharma (author)"
+        },
+        {
+            "id": 190,
+            "name": "Georg Christoph Lichtenberg"
+        },
+        {
+            "id": 191,
+            "name": "George Bernard Shaw"
+        },
+        {
+            "id": 192,
+            "name": "George Fitzhugh"
+        },
+        {
+            "id": 193,
+            "name": "George Moore (novelist)"
+        },
+        {
+            "id": 194,
+            "name": "George Müller"
+        },
+        {
+            "id": 195,
+            "name": "George Ohsawa"
+        },
+        {
+            "id": 196,
+            "name": "George Plimpton"
+        },
+        {
+            "id": 197,
+            "name": "George Salmon"
+        },
+        {
+            "id": 198,
+            "name": "George W. Bush"
+        },
+        {
+            "id": 199,
+            "name": "George W. S. Trow"
+        },
+        {
+            "id": 200,
+            "name": "George William Russell"
+        },
+        {
+            "id": 201,
+            "name": "Georges Bataille"
+        },
+        {
+            "id": 202,
+            "name": "Gianni Agnelli"
+        },
+        {
+            "id": 203,
+            "name": "Giordano Bruno"
+        },
+        {
+            "id": 204,
+            "name": "Giorgos Seferis"
+        },
+        {
+            "id": 205,
+            "name": "Glenn Gould"
+        },
+        {
+            "id": 206,
+            "name": "Gottlob Frege"
+        },
+        {
+            "id": 207,
+            "name": "Greta Garbo"
+        },
+        {
+            "id": 208,
+            "name": "Grover Cleveland"
+        },
+        {
+            "id": 209,
+            "name": "Hafez"
+        },
+        {
+            "id": 210,
+            "name": "Hannah Arendt"
+        },
+        {
+            "id": 211,
+            "name": "Hans Christian Ørsted"
+        },
+        {
+            "id": 212,
+            "name": "Hans Urs Von Balthasar"
+        },
+        {
+            "id": 213,
+            "name": "Hatake Kakashi"
+        },
+        {
+            "id": 214,
+            "name": "Hayao Miyazaki"
+        },
+        {
+            "id": 215,
+            "name": "Hazrat Inayat Khan"
+        },
+        {
+            "id": 216,
+            "name": "Heath Ledger"
+        },
+        {
+            "id": 217,
+            "name": "Helder Camara"
+        },
+        {
+            "id": 218,
+            "name": "Helen Keller"
+        },
+        {
+            "id": 219,
+            "name": "Hendrik Willem van Loon"
+        },
+        {
+            "id": 220,
+            "name": "Henri-Frédéric Amiel"
+        },
+        {
+            "id": 221,
+            "name": "Henry Flynt"
+        },
+        {
+            "id": 222,
+            "name": "Henry Ford"
+        },
+        {
+            "id": 223,
+            "name": "Henry Kissinger"
+        },
+        {
+            "id": 224,
+            "name": "Herbert Marcuse"
+        },
+        {
+            "id": 225,
+            "name": "Herman Melville"
+        },
+        {
+            "id": 226,
+            "name": "Heydar Aliyev"
+        },
+        {
+            "id": 227,
+            "name": "Hideyuki Kikuchi"
+        },
+        {
+            "id": 228,
+            "name": "Hildegard of Bingen"
+        },
+        {
+            "id": 229,
+            "name": "Hillary Clinton"
+        },
+        {
+            "id": 230,
+            "name": "H.L. Mencken"
+        },
+        {
+            "id": 231,
+            "name": "Homér"
+        },
+        {
+            "id": 232,
+            "name": "Honoré de Balzac"
+        },
+        {
+            "id": 233,
+            "name": "H.P. Lovecraft"
+        },
+        {
+            "id": 234,
+            "name": "Huey P. Newton"
+        },
+        {
+            "id": 235,
+            "name": "Hugo Black"
+        },
+        {
+            "id": 236,
+            "name": "Huldrych Zwingli"
+        },
+        {
+            "id": 237,
+            "name": "Humphry Davy"
+        },
+        {
+            "id": 238,
+            "name": "Hunter S. Thompson"
+        },
+        {
+            "id": 239,
+            "name": "Immanuel Kant"
+        },
+        {
+            "id": 240,
+            "name": "Irving Fiske"
+        },
+        {
+            "id": 241,
+            "name": "Isaac Asimov"
+        },
+        {
+            "id": 242,
+            "name": "Isaac Bashevis Singer"
+        },
+        {
+            "id": 243,
+            "name": "Isabel Allende"
+        },
+        {
+            "id": 244,
+            "name": "Isabel II do Reino Unido"
+        },
+        {
+            "id": 245,
+            "name": "Italo Calvino"
+        },
+        {
+            "id": 246,
+            "name": "Jack Kerouac"
+        },
+        {
+            "id": 247,
+            "name": "Jacob Bronowski"
+        },
+        {
+            "id": 248,
+            "name": "Jacobus Henricus van 't Hoff"
+        },
+        {
+            "id": 249,
+            "name": "Jacque Fresco"
+        },
+        {
+            "id": 250,
+            "name": "Jacques Chirac"
+        },
+        {
+            "id": 251,
+            "name": "Jacques Prevért"
+        },
+        {
+            "id": 252,
+            "name": "Jair Bolsonaro"
+        },
+        {
+            "id": 253,
+            "name": "James Baldwin"
+        },
+        {
+            "id": 254,
+            "name": "James Berardinelli"
+        },
+        {
+            "id": 255,
+            "name": "James D. Watson"
+        },
+        {
+            "id": 256,
+            "name": "James O. Fraser"
+        },
+        {
+            "id": 257,
+            "name": "Jane Austen"
+        },
+        {
+            "id": 258,
+            "name": "Jane Goodall"
+        },
+        {
+            "id": 259,
+            "name": "Janet Evanovich"
+        },
+        {
+            "id": 260,
+            "name": "Jannis Kounellis"
+        },
+        {
+            "id": 261,
+            "name": "Janusz Korczak"
+        },
+        {
+            "id": 262,
+            "name": "Jaroslav Kvapil"
+        },
+        {
+            "id": 263,
+            "name": "Jawaharlal Nehru"
+        },
+        {
+            "id": 264,
+            "name": "Jay Leno"
+        },
+        {
+            "id": 265,
+            "name": "Jayne Mansfield"
+        },
+        {
+            "id": 266,
+            "name": "Jean-Michel Basquiat"
+        },
+        {
+            "id": 267,
+            "name": "Jean-Philippe Rameau"
+        },
+        {
+            "id": 268,
+            "name": "Jean Vanier"
+        },
+        {
+            "id": 269,
+            "name": "Jeff Cooper"
+        },
+        {
+            "id": 270,
+            "name": "Jenny Han"
+        },
+        {
+            "id": 271,
+            "name": "Jeremy Bentham"
+        },
+        {
+            "id": 272,
+            "name": "Jerome K. Jerome"
+        },
+        {
+            "id": 273,
+            "name": "Jessica Bird"
+        },
+        {
+            "id": 274,
+            "name": "Jhené Aiko"
+        },
+        {
+            "id": 275,
+            "name": "Jim Butcher"
+        },
+        {
+            "id": 276,
+            "name": "Jim Carrey"
+        },
+        {
+            "id": 277,
+            "name": "Jimi Hendrix"
+        },
+        {
+            "id": 278,
+            "name": "Joanne K. Rowling"
+        },
+        {
+            "id": 279,
+            "name": "Jodi Picoult"
+        },
+        {
+            "id": 280,
+            "name": "Joep Lange"
+        },
+        {
+            "id": 281,
+            "name": "Johann Heinrich Lambert"
+        },
+        {
+            "id": 282,
+            "name": "John Churton Collins"
+        },
+        {
+            "id": 283,
+            "name": "John Dalton"
+        },
+        {
+            "id": 284,
+            "name": "John Flanagan"
+        },
+        {
+            "id": 285,
+            "name": "John Green"
+        },
+        {
+            "id": 286,
+            "name": "John Howard Lawson"
+        },
+        {
+            "id": 287,
+            "name": "John Ireland (bishop)"
+        },
+        {
+            "id": 288,
+            "name": "John Keats"
+        },
+        {
+            "id": 289,
+            "name": "John Lennon"
+        },
+        {
+            "id": 290,
+            "name": "John Lydon"
+        },
+        {
+            "id": 291,
+            "name": "John M. Ford"
+        },
+        {
+            "id": 292,
+            "name": "John Milton"
+        },
+        {
+            "id": 293,
+            "name": "John of the Cross"
+        },
+        {
+            "id": 294,
+            "name": "John O'Hara"
+        },
+        {
+            "id": 295,
+            "name": "John Stuart Mill"
+        },
+        {
+            "id": 296,
+            "name": "Johnny Depp"
+        },
+        {
+            "id": 297,
+            "name": "Jon Bon Jovi"
+        },
+        {
+            "id": 298,
+            "name": "Jöns Jacob Berzelius"
+        },
+        {
+            "id": 299,
+            "name": "Jorge Amado"
+        },
+        {
+            "id": 300,
+            "name": "Jose Cecilio del Valle"
+        },
+        {
+            "id": 301,
+            "name": "José Montoya"
+        },
+        {
+            "id": 302,
+            "name": "José Ortega Y Gasset"
+        },
+        {
+            "id": 303,
+            "name": "José Raúl Capablanca"
+        },
+        {
+            "id": 304,
+            "name": "Josemaría Escrivá"
+        },
+        {
+            "id": 305,
+            "name": "Joseph Chamberlain"
+        },
+        {
+            "id": 306,
+            "name": "Joseph E. Stiglitz"
+        },
+        {
+            "id": 307,
+            "name": "Joseph H. Hertz"
+        },
+        {
+            "id": 308,
+            "name": "Joseph Joubert"
+        },
+        {
+            "id": 309,
+            "name": "Joseph Nechvatal"
+        },
+        {
+            "id": 310,
+            "name": "Joseph Stalin"
+        },
+        {
+            "id": 311,
+            "name": "Joshua Fernandez"
+        },
+        {
+            "id": 312,
+            "name": "Julia Ward Howe"
+        },
+        {
+            "id": 313,
+            "name": "Julian of Norwich"
+        },
+        {
+            "id": 314,
+            "name": "Julio Cortázar"
+        },
+        {
+            "id": 315,
+            "name": "Justin Bieber"
+        },
+        {
+            "id": 316,
+            "name": "Karl Marx"
+        },
+        {
+            "id": 317,
+            "name": "Karl Pilkington"
+        },
+        {
+            "id": 318,
+            "name": "Katherine Anne Porter"
+        },
+        {
+            "id": 319,
+            "name": "Kazuo Ishiguro"
+        },
+        {
+            "id": 320,
+            "name": "Keanu Reeves"
+        },
+        {
+            "id": 321,
+            "name": "Kenzaburō Ōe"
+        },
+        {
+            "id": 322,
+            "name": "Khalil Gibran"
+        },
+        {
+            "id": 323,
+            "name": "Klaus Barbie"
+        },
+        {
+            "id": 324,
+            "name": "Klaus Kinski"
+        },
+        {
+            "id": 325,
+            "name": "Konrad Adenauer"
+        },
+        {
+            "id": 326,
+            "name": "Kristin Hannah"
+        },
+        {
+            "id": 327,
+            "name": "Kurt Cobain"
+        },
+        {
+            "id": 328,
+            "name": "Kurt Tucholský"
+        },
+        {
+            "id": 329,
+            "name": "Kurt Vonnegut"
+        },
+        {
+            "id": 330,
+            "name": "L. Frank Baum"
+        },
+        {
+            "id": 331,
+            "name": "Lady Gaga"
+        },
+        {
+            "id": 332,
+            "name": "Lana Del Rey"
+        },
+        {
+            "id": 333,
+            "name": "Lancelot Andrewes"
+        },
+        {
+            "id": 334,
+            "name": "Laxmi Prasad Devkota"
+        },
+        {
+            "id": 335,
+            "name": "Leon Rene Yankwich"
+        },
+        {
+            "id": 336,
+            "name": "Leonard Ravenhill"
+        },
+        {
+            "id": 337,
+            "name": "Leonardo DiCaprio"
+        },
+        {
+            "id": 338,
+            "name": "Liam Payne"
+        },
+        {
+            "id": 339,
+            "name": "Lil Peep"
+        },
+        {
+            "id": 340,
+            "name": "Linda Sue Park"
+        },
+        {
+            "id": 341,
+            "name": "Lois McMaster Bujold"
+        },
+        {
+            "id": 342,
+            "name": "Lorrie Moore"
+        },
+        {
+            "id": 343,
+            "name": "Louis-ferdinand Céline"
+        },
+        {
+            "id": 344,
+            "name": "Louis Pasteur"
+        },
+        {
+            "id": 345,
+            "name": "Louisa May Alcott"
+        },
+        {
+            "id": 346,
+            "name": "Louise Penny"
+        },
+        {
+            "id": 347,
+            "name": "Lu Xun"
+        },
+        {
+            "id": 348,
+            "name": "Luanne Rice"
+        },
+        {
+            "id": 349,
+            "name": "Luciano De Crescenzo"
+        },
+        {
+            "id": 350,
+            "name": "Ludoviko Lazaro Zamenhof"
+        },
+        {
+            "id": 351,
+            "name": "Ludwig von Mises"
+        },
+        {
+            "id": 352,
+            "name": "Ludwig Wittgenstein"
+        },
+        {
+            "id": 353,
+            "name": "Luiz Inácio Lula da Silva"
+        },
+        {
+            "id": 354,
+            "name": "Lyndon B. Johnson"
+        },
+        {
+            "id": 355,
+            "name": "Lynn Margulis"
+        },
+        {
+            "id": 356,
+            "name": "M. Scott Peck"
+        },
+        {
+            "id": 357,
+            "name": "Machado de Assis"
+        },
+        {
+            "id": 358,
+            "name": "Maimónides"
+        },
+        {
+            "id": 359,
+            "name": "Махатма Ганди"
+        },
+        {
+            "id": 360,
+            "name": "Marc Benioff"
+        },
+        {
+            "id": 361,
+            "name": "Marcus Aurelius"
+        },
+        {
+            "id": 362,
+            "name": "Marek Żukow-Karczewski"
+        },
+        {
+            "id": 363,
+            "name": "Margaret Atwood"
+        },
+        {
+            "id": 364,
+            "name": "Margaret Fishback"
+        },
+        {
+            "id": 365,
+            "name": "Margaret Thatcher"
+        },
+        {
+            "id": 366,
+            "name": "Marguerite de Navarre"
+        },
+        {
+            "id": 367,
+            "name": "Marie Anne de Vichy-Chamrond, marquise du Deffand"
+        },
+        {
+            "id": 368,
+            "name": "Marilyn Manson"
+        },
+        {
+            "id": 369,
+            "name": "Marilyn vos Savant"
+        },
+        {
+            "id": 370,
+            "name": "Mario Benedetti"
+        },
+        {
+            "id": 371,
+            "name": "Mario Vargas Llosa"
+        },
+        {
+            "id": 372,
+            "name": "Marion Zimmer Bradley"
+        },
+        {
+            "id": 373,
+            "name": "Mark Clifton"
+        },
+        {
+            "id": 374,
+            "name": "Mark Hamill"
+        },
+        {
+            "id": 375,
+            "name": "Mark Rothko"
+        },
+        {
+            "id": 376,
+            "name": "Mark Twain"
+        },
+        {
+            "id": 377,
+            "name": "Markus Zusak"
+        },
+        {
+            "id": 378,
+            "name": "Marlene Dietrich"
+        },
+        {
+            "id": 379,
+            "name": "Martin Luther"
+        },
+        {
+            "id": 380,
+            "name": "Martin Luther King, Jr."
+        },
+        {
+            "id": 381,
+            "name": "Marvin J. Ashton"
+        },
+        {
+            "id": 382,
+            "name": "Mason Cooley"
+        },
+        {
+            "id": 383,
+            "name": "Mata Amritanandamayi"
+        },
+        {
+            "id": 384,
+            "name": "Mathias Malzieu"
+        },
+        {
+            "id": 385,
+            "name": "Matthew Henry"
+        },
+        {
+            "id": 386,
+            "name": "Max Lucado"
+        },
+        {
+            "id": 387,
+            "name": "Max Planck"
+        },
+        {
+            "id": 388,
+            "name": "Maxim Gorky"
+        },
+        {
+            "id": 389,
+            "name": "Meister Eckhart"
+        },
+        {
+            "id": 390,
+            "name": "Menachem Begin"
+        },
+        {
+            "id": 391,
+            "name": "Michael Ende"
+        },
+        {
+            "id": 392,
+            "name": "Michael Jackson"
+        },
+        {
+            "id": 393,
+            "name": "Michael Jordan"
+        },
+        {
+            "id": 394,
+            "name": "Michael Madsen"
+        },
+        {
+            "id": 395,
+            "name": "Michael Moorcock"
+        },
+        {
+            "id": 396,
+            "name": "Michael Stevens (educator)"
+        },
+        {
+            "id": 397,
+            "name": "Michel De Montaigne"
+        },
+        {
+            "id": 398,
+            "name": "Michelle Phillips"
+        },
+        {
+            "id": 399,
+            "name": "Miguel de Cervantes"
+        },
+        {
+            "id": 400,
+            "name": "Mihaly Csikszentmihalyi"
+        },
+        {
+            "id": 401,
+            "name": "Mike Murphy (political consultant)"
+        },
+        {
+            "id": 402,
+            "name": "Mike Tyson"
+        },
+        {
+            "id": 403,
+            "name": "Mikhail Bakunin"
+        },
+        {
+            "id": 404,
+            "name": "Miles Davis"
+        },
+        {
+            "id": 405,
+            "name": "Miley Cyrus"
+        },
+        {
+            "id": 406,
+            "name": "Mina Loy"
+        },
+        {
+            "id": 407,
+            "name": "Moshe Dayan"
+        },
+        {
+            "id": 408,
+            "name": "Muhammad Ali"
+        },
+        {
+            "id": 409,
+            "name": "Naguib Mahfouz"
+        },
+        {
+            "id": 410,
+            "name": "Napoleon Hill"
+        },
+        {
+            "id": 411,
+            "name": "Napoleon I of France"
+        },
+        {
+            "id": 412,
+            "name": "NasserTone"
+        },
+        {
+            "id": 413,
+            "name": "Neil Gaiman"
+        },
+        {
+            "id": 414,
+            "name": "Niall Horan"
+        },
+        {
+            "id": 415,
+            "name": "Nicholas Sparks"
+        },
+        {
+            "id": 416,
+            "name": "Nick Jonas"
+        },
+        {
+            "id": 417,
+            "name": "Niklas Luhmann"
+        },
+        {
+            "id": 418,
+            "name": "Nikola Tesla"
+        },
+        {
+            "id": 419,
+            "name": "Nikolai Berdyaev"
+        },
+        {
+            "id": 420,
+            "name": "Ninon de L'Enclos"
+        },
+        {
+            "id": 421,
+            "name": "Nisargadatta Maharaj"
+        },
+        {
+            "id": 422,
+            "name": "Noam Chomsky"
+        },
+        {
+            "id": 423,
+            "name": "Noemi"
+        },
+        {
+            "id": 424,
+            "name": "Norman O. Brown"
+        },
+        {
+            "id": 425,
+            "name": "Novalis"
+        },
+        {
+            "id": 426,
+            "name": "Oliver Herford"
+        },
+        {
+            "id": 427,
+            "name": "Oscar Wilde"
+        },
+        {
+            "id": 428,
+            "name": "Oskar Schindler"
+        },
+        {
+            "id": 429,
+            "name": "Otto von Bismarck"
+        },
+        {
+            "id": 430,
+            "name": "Padre Pio"
+        },
+        {
+            "id": 431,
+            "name": "Papa Francesco"
+        },
+        {
+            "id": 432,
+            "name": "Paracelsus"
+        },
+        {
+            "id": 433,
+            "name": "Paramahansa Yogananda"
+        },
+        {
+            "id": 434,
+            "name": "Paris Hilton"
+        },
+        {
+            "id": 435,
+            "name": "Patch Adams"
+        },
+        {
+            "id": 436,
+            "name": "Patrick Rothfuss"
+        },
+        {
+            "id": 437,
+            "name": "Paul Ehrenfest"
+        },
+        {
+            "id": 438,
+            "name": "Paul Kruger"
+        },
+        {
+            "id": 439,
+            "name": "Paul MacCready"
+        },
+        {
+            "id": 440,
+            "name": "Paul Walker"
+        },
+        {
+            "id": 441,
+            "name": "Paulo Coelho"
+        },
+        {
+            "id": 442,
+            "name": "Paulo Freire"
+        },
+        {
+            "id": 443,
+            "name": "P. C. Cast"
+        },
+        {
+            "id": 444,
+            "name": "Pedro Calderón de la Barca"
+        },
+        {
+            "id": 445,
+            "name": "Peter F. Drucker"
+        },
+        {
+            "id": 446,
+            "name": "Peter Handke"
+        },
+        {
+            "id": 447,
+            "name": "Phil Ochs"
+        },
+        {
+            "id": 448,
+            "name": "Pierre Bonnard"
+        },
+        {
+            "id": 449,
+            "name": "Pierre Stephen Robert Payne"
+        },
+        {
+            "id": 450,
+            "name": "Pietro Mennea"
+        },
+        {
+            "id": 451,
+            "name": "Plutarch"
+        },
+        {
+            "id": 452,
+            "name": "Qianlong Emperor"
+        },
+        {
+            "id": 453,
+            "name": "Rabindranath Tagore"
+        },
+        {
+            "id": 454,
+            "name": "Ralph Waldo Emerson"
+        },
+        {
+            "id": 455,
+            "name": "Ram Mohan Roy"
+        },
+        {
+            "id": 456,
+            "name": "Randall Jarrell"
+        },
+        {
+            "id": 457,
+            "name": "Ravi Zacharias"
+        },
+        {
+            "id": 458,
+            "name": "Raymond Chandler"
+        },
+        {
+            "id": 459,
+            "name": "Richard Brautigan"
+        },
+        {
+            "id": 460,
+            "name": "Richard Porson"
+        },
+        {
+            "id": 461,
+            "name": "Richard Rodríguez"
+        },
+        {
+            "id": 462,
+            "name": "Richard Wagner"
+        },
+        {
+            "id": 463,
+            "name": "Richelle Mead"
+        },
+        {
+            "id": 464,
+            "name": "Rick Riordan"
+        },
+        {
+            "id": 465,
+            "name": "Rihanna"
+        },
+        {
+            "id": 466,
+            "name": "Ring Lardner"
+        },
+        {
+            "id": 467,
+            "name": "Robert A. Heinlein"
+        },
+        {
+            "id": 468,
+            "name": "Robert B. Laughlin"
+        },
+        {
+            "id": 469,
+            "name": "Robert Bresson"
+        },
+        {
+            "id": 470,
+            "name": "Robert Bulwer-Lytton, 1st Earl of Lytton"
+        },
+        {
+            "id": 471,
+            "name": "Robert Charles Wilson"
+        },
+        {
+            "id": 472,
+            "name": "Robert Floyd"
+        },
+        {
+            "id": 473,
+            "name": "Robert Fulghum"
+        },
+        {
+            "id": 474,
+            "name": "Robert G. Ingersoll"
+        },
+        {
+            "id": 475,
+            "name": "Robert Greene"
+        },
+        {
+            "id": 476,
+            "name": "Robert Louis Stevenson"
+        },
+        {
+            "id": 477,
+            "name": "Robert M. Gates"
+        },
+        {
+            "id": 478,
+            "name": "Robert Muldoon"
+        },
+        {
+            "id": 479,
+            "name": "Robert Musil"
+        },
+        {
+            "id": 480,
+            "name": "Roger Bacon"
+        },
+        {
+            "id": 481,
+            "name": "Romain Gary"
+        },
+        {
+            "id": 482,
+            "name": "Ronald Reagan"
+        },
+        {
+            "id": 483,
+            "name": "Rosa Parks"
+        },
+        {
+            "id": 484,
+            "name": "Rowan Atkinson"
+        },
+        {
+            "id": 485,
+            "name": "R.S. Thomas"
+        },
+        {
+            "id": 486,
+            "name": "Rudyard Kipling"
+        },
+        {
+            "id": 487,
+            "name": "Rumi"
+        },
+        {
+            "id": 488,
+            "name": "Sai Baba of Shirdi"
+        },
+        {
+            "id": 489,
+            "name": "Salma Hayek"
+        },
+        {
+            "id": 490,
+            "name": "Salvador Allende"
+        },
+        {
+            "id": 491,
+            "name": "Salvador Dalí"
+        },
+        {
+            "id": 492,
+            "name": "Samuel Butler (poet)"
+        },
+        {
+            "id": 493,
+            "name": "Sarah Bernhardt"
+        },
+        {
+            "id": 494,
+            "name": "Scott Westerfeld"
+        },
+        {
+            "id": 495,
+            "name": "Selena Gomez"
+        },
+        {
+            "id": 496,
+            "name": "Seneca the Younger"
+        },
+        {
+            "id": 497,
+            "name": "Shahrukh Khan"
+        },
+        {
+            "id": 498,
+            "name": "Shannon Hale"
+        },
+        {
+            "id": 499,
+            "name": "Shel Silverstein"
+        },
+        {
+            "id": 500,
+            "name": "Sigmund Freud"
+        },
+        {
+            "id": 501,
+            "name": "Simone de Beauvoir"
+        },
+        {
+            "id": 502,
+            "name": "Socrates"
+        },
+        {
+            "id": 503,
+            "name": "Solomon"
+        },
+        {
+            "id": 504,
+            "name": "Sören Kierkegaard"
+        },
+        {
+            "id": 505,
+            "name": "Sri Chinmoy"
+        },
+        {
+            "id": 506,
+            "name": "Stanisław Jerzy Lec"
+        },
+        {
+            "id": 507,
+            "name": "Stanisław Sosabowski"
+        },
+        {
+            "id": 508,
+            "name": "Stanley Baldwin"
+        },
+        {
+            "id": 509,
+            "name": "Stephen R. Covey"
+        },
+        {
+            "id": 510,
+            "name": "Stephen Vincent Benét"
+        },
+        {
+            "id": 511,
+            "name": "Steven Pinker"
+        },
+        {
+            "id": 512,
+            "name": "Sukavich Rangsitpol"
+        },
+        {
+            "id": 513,
+            "name": "Susan B. Anthony"
+        },
+        {
+            "id": 514,
+            "name": "Susan Sontag"
+        },
+        {
+            "id": 515,
+            "name": "Sylvia Plath"
+        },
+        {
+            "id": 516,
+            "name": "Тайлер Джозеф"
+        },
+        {
+            "id": 517,
+            "name": "Teal Swan"
+        },
+        {
+            "id": 518,
+            "name": "Tenzin Gyatso"
+        },
+        {
+            "id": 519,
+            "name": "Terence McKenna"
+        },
+        {
+            "id": 520,
+            "name": "Teresa of Ávila"
+        },
+        {
+            "id": 521,
+            "name": "Theodore Roosevelt"
+        },
+        {
+            "id": 522,
+            "name": "Thomas Aquinas"
+        },
+        {
+            "id": 523,
+            "name": "Thomas Fuller"
+        },
+        {
+            "id": 524,
+            "name": "T.I."
+        },
+        {
+            "id": 525,
+            "name": "Till Lindemann"
+        },
+        {
+            "id": 526,
+            "name": "Tim Berners-Lee"
+        },
+        {
+            "id": 527,
+            "name": "Tom Hiddleston"
+        },
+        {
+            "id": 528,
+            "name": "Tom Holt"
+        },
+        {
+            "id": 529,
+            "name": "Toni Morrison"
+        },
+        {
+            "id": 530,
+            "name": "Toshio Shiratori"
+        },
+        {
+            "id": 531,
+            "name": "T.S. Eliot"
+        },
+        {
+            "id": 532,
+            "name": "Tupac Shakur"
+        },
+        {
+            "id": 533,
+            "name": "TY Bello"
+        },
+        {
+            "id": 534,
+            "name": "Ulysses S. Grant"
+        },
+        {
+            "id": 535,
+            "name": "Vasco Rossi"
+        },
+        {
+            "id": 536,
+            "name": "Vijay R. Singh"
+        },
+        {
+            "id": 537,
+            "name": "Viktor E. Frankl"
+        },
+        {
+            "id": 538,
+            "name": "Viktor Schauberger"
+        },
+        {
+            "id": 539,
+            "name": "Вилле Вало"
+        },
+        {
+            "id": 540,
+            "name": "Vincent Ostrom"
+        },
+        {
+            "id": 541,
+            "name": "Vincent Van Gogh"
+        },
+        {
+            "id": 542,
+            "name": "Vinko Vrbanić"
+        },
+        {
+            "id": 543,
+            "name": "Vladimir Lenin"
+        },
+        {
+            "id": 544,
+            "name": "Vladimir Nabokov"
+        },
+        {
+            "id": 545,
+            "name": "Voltaire"
+        },
+        {
+            "id": 546,
+            "name": "Wallace Stegner"
+        },
+        {
+            "id": 547,
+            "name": "Walter Lippmann"
+        },
+        {
+            "id": 548,
+            "name": "Wangari Maathai"
+        },
+        {
+            "id": 549,
+            "name": "Warren Farrell"
+        },
+        {
+            "id": 550,
+            "name": "Warren G. Harding"
+        },
+        {
+            "id": 551,
+            "name": "W.B. Yeats"
+        },
+        {
+            "id": 552,
+            "name": "W.C. Fields"
+        },
+        {
+            "id": 553,
+            "name": "Werner Heisenberg"
+        },
+        {
+            "id": 554,
+            "name": "Wilhelm II, German Emperor"
+        },
+        {
+            "id": 555,
+            "name": "Will Rogers"
+        },
+        {
+            "id": 556,
+            "name": "Will Smith"
+        },
+        {
+            "id": 557,
+            "name": "William Faulkner"
+        },
+        {
+            "id": 558,
+            "name": "William Golding"
+        },
+        {
+            "id": 559,
+            "name": "William Saroyan"
+        },
+        {
+            "id": 560,
+            "name": "William Shakespeare"
+        },
+        {
+            "id": 561,
+            "name": "Winston S. Churchill"
+        },
+        {
+            "id": 562,
+            "name": "Wisława Szymborska"
+        },
+        {
+            "id": 563,
+            "name": "Wole Soyinka"
+        },
+        {
+            "id": 564,
+            "name": "Xenophon"
+        },
+        {
+            "id": 565,
+            "name": "Yogi Berra"
+        }
+    ]
+}
